@@ -1,0 +1,1257 @@
+video_name,manual_description,gpt_response,gpt_final_response
+Abuse/Abuse001_x264.mp4,"Person1 picks up papers that are on a table. Person2 comes up behind Person1, pulls Person2 backwards, then runs. Person3 is dressed in black and uses their hand to hit Person1 on the back of the head, then runs. Person1 falls to the ground, then slowly sits up.","Possible explanations:
+1. Person2 and Person3 are collaborating to steal Person1's papers [Stealing]
+2. Person2 and Person3 are assaulting Person1 without provocation [Assault]
+3. Person1 committed a crime, and Person2 and Person3 are vigilantes attempting to punish Person1 [Arrest]
+
+The most likely category is ""Assault"".",Assault
+Abuse/Abuse002_x264.mp4,Traffic accelerates from a stopped position. A person is lying on the ground and begins to get up. A car drives on top of the person. Two people get out of the van in front of the car and run up to push the car. The car reverses. Another two people get out of the van and walk towards the car. Another two people get out of the car.,"Possible explanations:
+1. Road Accident: The car might have accidentally driven over the person.
+2. Assault: The driver of the car might have intentionally driven over the person.
+3. Normal: The person on the ground might be part of a stunt or a performance, and the people coming out of the car and van are part of the act.
+
+Most likely category: ""Road Accident""",RoadAccident
+Abuse/Abuse003_x264.mp4,"Person1 pushes Person2 who is in a wheelchair through a hall. Person1 turns around and pushes Person2 back through the hall. The wheelchair heads towards the wall. The wheelchair heads towards a wall again, and Person1 lets go and raises their hands in the air. Person1 turns around and pushes Person1 back through the hall. The wheelchair hits the wall again. The wheelchair hits the wall again. The wheelchair hits the wall again. Person1 lets go of the wheelchair and raises their hands. Person1 turns around and pushes Person2 back through the hall. Person1 stops and lets go. The wheelchair hits the wall again. The wheelchair hits the wall again.","1. Abuse: Person1 is intentionally causing harm to Person2 by pushing them into the wall.
+2. Assault: Person1 is attacking Person2 by repeatedly pushing the wheelchair into the wall.
+3. Normal: Person1 is playing or fooling around with Person2, and they both find it amusing.
+
+Most likely category: ""Abuse""",Abuse
+Abuse/Abuse004_x264.mp4,Person1 is dressed in a blue jumper and sits on a chair in a cell. Two people in uniform are standing at the door to the cell. Person1 stands up and faces the two people at the door. Something extends rapidly from a person at the door and touches Person1. Person1 turns around. Person1 claps their hands. The cell door opens and the two people in uniform come in. One of the people in uniform hits Person1 with a black baton multiple times. Person2 sits in the chair. Person2 gets up. One of the people in uniform continues hitting Person1 with their baton repetitively. The other person in uniform stands back and watches the person in uniform hitting Person1 with their baton. Person1 is lying on the ground. A person in uniform stands above Person1. One of the people in uniform lifts a mobile phone to their ear.,"Possible explanations:
+1. Person1 is being abused by the people in uniform [Abuse]
+2. Person1 is being arrested for a crime and resists, prompting use of force [Arrest]
+3. Person1 is involved in a fight with the people in uniform [Fighting]
+4. Person1 has stolen something and is being punished by the people in uniform [Stealing]
+
+Most likely category: ""Arrest""",Arrest
+Abuse/Abuse005_x264.mp4,Three people in uniform are in what appears to be a prison. A person enters a cell. One of the people in uniform sits down on a chair. The scene changes. Three people in uniform are standing near a person or dummy bent over a desk with something covering their head. One of the people in uniform is standing on the table and steps on the neck of the person or dummy.,"Possible explanations:
+1. A prisoner is being abused by the guards [Abuse]
+2. A prisoner is being arrested after an altercation [Arrest]
+3. A simulation drill of prisoner control and restraint [Normal]
+
+Most likely category: ""Abuse""",Abuse
+Abuse/Abuse006_x264.mp4,An outdoor scene at night. There is a building with alternating black and white tiles. A white car with headlights on parks. There are flashing blue and red lights. Person1 is standing up. People come out of the car and approach Person1. Person1 kneels down. Person1 lies down. One of the people who came out of the car kicks Person1. One of the people who came out of the car pulls Person1. The people who came out of the car punch Person1. A yellow car with flashing blue and red lights parks. A person gets out and joins the group. Another yellow car pulls up. The people pull Person1 up and start walking towards the cars.,"Possible explanations:
+1. Person1 is being arrested by undercover police officers. [Arrest]
+2. Person1 is being assaulted by a group of people. [Assault]
+3. Person1 is involved in a planned or staged altercation. [Normal]
+4. Person1 is being abducted or robbed by a group of people. [Robbery]
+
+Most likely category: ""Arrest""",Arrest
+Abuse/Abuse007_x264.mp4,"Person1 is wearing black and a badge. Person2 is wearing black and shorts. Person1 punches Person2, then stops. Person1 follows Person2. Person2 follows Person1.","Possible explanations:
+1. Person1 is a police officer trying to arrest Person2 for a crime [Arrest]
+2. Person1 and Person2 are having a dispute and are involved in a physical altercation [Fighting]
+3. Person1 has authority over Person2 and is abusing their power [Abuse]
+
+Most likely category: ""Fighting""",Fighting
+Abuse/Abuse008_x264.mp4,"The scene is a cell with brick walls and a bed. Person1 is wearing a police uniform. Person2 is sitting on the bed and wearing a blue top. Person1 takes off Person2's shoes. Person1 helps Person2 stand up. Person1 makes Person2 stand against the cell wall with their hands raised. Person1 checks the Person2's pockets and socks. Person3 is wearing a police uniform and walks into the cell, and leaves a grey bag or blanket. Person2 removes a red item from underneath their jumper and hands it to Person1. Person2 leaves the cell. Person2 is pushed into the cell by a person wearing a police uniform. Person2 falls to the ground. Two people in police uniforms stand near Person2. A third person in a police uniform comes in with a with sheet of cloth or paper and places it near Person2 then leaves. The two people in uniforms sit next to Person1. One of the people in uniforms leave. A person in uniform enters. A person in uniform points.","Possible explanations:
+1. Arrest: Person2 is being searched and arrested by police officers.
+2. Assault: Person1 is harassing or assaulting Person2 in the cell.
+3. Normal: Person2 is being assisted and helped by police officers.
+
+The most likely category is ""Arrest"".",Arrest
+Abuse/Abuse009_x264.mp4,Person1 is dressed in a black top and blue shorts. Person1 drops something then picks it up. Person1 walks up to a group of people. Person1 and one of the people in the group start fighting.,"Possible explanations:
+1. Person1 accidentally bumped into the group, causing an argument and fight [Fighting]
+2. Person1 intentionally confronted the group and initiated a fight [Assault]
+3. Person1 tried to steal from someone in the group and was caught, leading to a fight [Stealing]
+
+The most likely category is ""Fighting"".",Fighting
+Abuse/Abuse010_x264.mp4,Two cars are heading in different directions. A black animal runs in front of one of the cars. A second black animal runs in front of the car. The car drives over the animal. The animal rolls around. The first black animal comes up to the second animal then runs away. A person runs up to the animal and picks it up. The person carries the animal off.,"Possible explanations:
+1. The driver purposely hits the animal (Abuse)
+2. The driver accidentally hits the animal (Road Accident)
+3. The animals are chasing each other in the road (Normal)
+4. The person who picks up the animal is stealing it (Stealing)
+
+Most likely category: ""Road Accident""",RoadAccident
+Abuse/Abuse011_x264.mp4,The scene is a dark stairwell. Person1 drags Person2. The scene changes. Person2 is thrown from an unknown source into a hall and hits the wall. Person2 lies still. The scene changes. Person1 pushes Person2 into the wall. Person1 drags Person2 along the hall towards a door. Two people are sitting in the hall. A black dog enters. Person1 and Person2 are talking in the hall. Person1 drags the second person. The scene changes. Person1 climbs up the stairs. Person2 follows. Person1 pushes Person2 down the stairs.,"Possible explanations:
+1. Person1 is assaulting Person2. [Assault]
+2. Person1 is abusing Person2. [Abuse]
+3. Person1 is attempting to kidnap Person2. [Robbery]
+4. Person1 is forcefully escorting Person2 out of a restricted area. [Normal]
+
+The most likely category is ""Assault"".",Assault
+Abuse/Abuse012_x264.mp4,Five babies are in cots. A person in pink comes up to one of the babies in a cot and touches the baby. The person puts their hands on the baby's head. The person punches the baby. The person lifts the baby up. The person smacks the baby in the face. The person puts the baby back down into the cot. The person puts a blanket back over the baby.,"1. Abuse: The person intentionally harms the baby.
+2. Assault: The actions of the person could constitute assault on the baby. 
+3. Normal: The person is playing rough with the baby, however, it is not their intention to harm the baby.
+
+The most likely category is ""Abuse"".",Abuse
+Arrest/Arrest001_x264.mp4,"The scene is an office. People are talking outside one of the doors. People start wrestling. A person moves closer to the door to watch. Two people in police uniforms wrestle with a person in a white shirt, and drag the person aside. People walk to check what is occurring.","Possible explanations:
+1. Police officers arresting a person for committing a crime (Arrest)
+2. People fighting over a disagreement or dispute (Fighting)
+3. Normal office altercation between employees (Normal)
+4. Attempted assault by a person in a white shirt, leading to police intervention (Assault)
+
+Most likely category: ""Arrest""",Arrest
+Arrest/Arrest002_x264.mp4,Person1 in a white shirt tackles Person2 in a blue shirt to the ground. Person1 pulls Person2's hands behind their back and takes something out of their pocket. Person1 pulls Person'2 up and leads them away.,"Possible explanations:
+1. Person1 is a police officer arresting Person2 for a crime. [Arrest]
+2. Person1 is restraining Person2 to prevent them from causing harm to others or themselves. [Assault]
+3. Person1 and Person2 are engaged in a playful interaction, and Person1 is jokingly taking an item from Person2's pocket. [Normal]
+4. Person1 is physically abusing Person2 and stealing an item from their pocket. [Abuse]
+
+The most likely category is ""Arrest.""",Arrest
+Arrest/Arrest003_x264.mp4,"Person1 in a police uniform talks to Person2 in a white shirt. Person1 throws Person2 to the ground. Person1 sits on top of Person1. Scene change. Person3 in a black police uniform puts their hands on Person4 in a white shirt, who is sitting down and pulls Person4 up rapidly. Person4 hits the edge of a wall. A second person in a police uniform grabs Person4's hands and pulls them behind their back. Scene change. Multiple people in black police uniforms put Person3 on a stretcher bed and stand around the person.","Possible explanations:
+1. Police arresting a suspect for committing a crime (Arrest)
+2. Police using excessive force during an arrest (Abuse)
+3. A staged scene for a movie or training (Normal)
+
+The most likely category is ""Arrest"".",Arrest
+Arrest/Arrest004_x264.mp4,"A white car drives up to a silver car. 6 people in black uniforms and white helmets ride up on motorcycles. The people on motorcycles start hitting the white car with batons. A part of the white car falls off. The white car reverses and hits a wall, then drives forwards, then drives backwards and hits the wall again. The back window of the white car falls off. The people in black uniforms with white helmets go up to the car. A person in a white top gets out of the car the person is grabbed by the people in black uniforms with white helmets. Scene change.","1. Abuse: The people in black uniforms and white helmets could be targeting the person in the white car for personal reasons and causing harm without any legal justification.
+2. Arrest: The people in black uniforms and white helmets could be law enforcement officers attempting to arrest the person in the white car for a criminal offense.
+3. Assault: The people in black uniforms and white helmets could be attacking the person in the white car with the intention of causing physical harm or inflicting fear.
+4. Road Accident: The white car could have been involved in a road accident, and the people in black uniforms and white helmets are taking aggressive action in response.
+5. Robbery: The people in black uniforms and white helmets could be attempting to steal the white car or something from the person inside.
+
+Based on the given information and the aggressive actions of the people in black uniforms and white helmets, it is most likely that this incident is an ""Assault"".",Assault
+Arrest/Arrest005_x264.mp4,Person1 is wearing a blue top and standing at a counter. Person2 in a red top and a black mask/beanie covering their head pushes Person1 aside. Person1 puts their hands up. Person1 tackles Person2 to the ground. Scene change. A person in a police officer uniform comes up and pats Person2 on the back. Person2 puts their hands behind their back. The person in a police officer uniform puts something on Person2's hands. The person in a police uniform helps Person2 up and takes them aside. Person1 talks with a person in a police officer uniform and points at something.,"Possible explanations:
+
+1. Person2 is attempting to steal from the counter, and Person1 is trying to stop them (Robbery, Shoplifting, Stealing).
+2. Person2 is involved in some sort of altercation with Person1, who is defending themselves (Assault, Fighting).
+3. Person2 is attempting to cause damage to the counter or store (Vandalism).
+4. Person1 is misinterpreting Person2's actions and mistakenly believes they need to defend themselves from an attack (Normal).
+
+The most likely category is ""Robbery"" because Person2 is wearing a mask/beanie, which suggests an intent to hide their identity for criminal purposes. The following interactions between Person1, Person2, and the police officer support the idea that some sort of crime took place.
+
+""Robbery""",Robbery
+Arrest/Arrest006_x264.mp4,Outdoor scene. A white police car is parked. A red car drives by. The red car drives in circles on the grass and crashes into a flag. People in police uniforms come out and tackle the person who stepped out of the car onto the ground. The People in police uniforms take the person towards a roller door that opens vertically.,"1. Arrest: The person driving the red car might have been evading the police and was finally caught and arrested by the officers.
+2. Vandalism: The driver of the red car might have intentionally driven onto the grass and crashed into the flag to vandalize public property.
+3. Road Accident: The driver might have lost control of the vehicle, accidentally driving onto the grass and crashing into a flag.
+4. Assault: The people in police uniforms could be assaulting the person driving the red car, had they not committed any crime or the force is unnecessarily excessive.
+
+""Arrest""",Arrest
+Arrest/Arrest007_x264.mp4,An indoor scene at a laundromat. Person1 in a white shirt goes up to a washing machine and rocks it forward. Person1 rocks another washing machine. Person1 opens a case and takes out a drill/automatic-screwdriver and begins to drill/unscrew something. A person with a torch comes in. Person1 lies on the ground. People in police uniforms help Person1 up and walk Person1 out the door.,"1. Person1 is attempting to steal money from the washing machines or tamper with them [Stealing, Vandalism]
+2. Person1 is an employee fixing the washing machines as part of their job [Normal]
+3. Person1 is installing some illegal device into washing machines [Abuse, Burglary, Stealing]
+
+""Stealing"" is most likely.",Stealing
+Arrest/Arrest008_x264.mp4,A vehicle carpark. A person in black crawls around a white car. A person in white enters the door. A person in black crawls back around the door. A person gets out of the car and into the backseat. A person in white opens the door and gets into the backset. The person in black enters the backseat. A person comes out. Two people walk away. Scene change. Vehicle carpark at night. Scene change. A silver car drives into the parking lot. People come out of the silver car and get into a white car. A person gets out of the white car and into the silver car. Three police cars drive by. The silver car reverses and begins to leave the parking lot. Police lights flash. The silver car stops moving. People with torches move around. Another police car drives around. Police lights continue to flash. People in black stand around a white car. A person in white gets out of the white car and sits down.,"Possible explanations:
+1. People exchanging items from cars [Normal]
+2. Trying to steal the white car [Stealing]
+3. An undercover police operation [Arrest]
+4. People getting into the wrong cars accidentally [Normal]
+
+Considering the police presence and the interactions taking place, the most likely category is ""Arrest"".",Arrest
+Arrest/Arrest009_x264.mp4,A road. A person in white walks across the road. A white car drives along the road. The white car stops and people in black get out of the white car. The person in white gets into the car. A person in black pulls someone out of the car. A person is seen lying on the ground. Another in black gets out of the car and puts their hands in a ready to shoot position.,"Possible explanations:
+1. A person being arrested by undercover police officers - Arrest
+2. A person being kidnapped by criminals - Assault
+3. A person being robbed by armed criminals - Robbery
+4. A roadside conflict between individuals - Fighting
+
+Based on the surveillance video description, the most likely category is ""Arrest"".",Arrest
+Arrest/Arrest010_x264.mp4,The scene is a construction site. A person climbs a fence. Scene change. A person climbs a red container. A person climbs a yellow crane frame. People in black enter. The people in black walk around. One of the people in black is holding another person.,"Possible explanations:
+1. The person climbing the fence, container, and crane frame is practicing parkour or trying to access a restricted area - [Normal, Trespassing]
+2. The people in black are security guards catching the person trespassing on the construction site - [Arrest]
+3. The people in black are kidnappers taking a hostage - [Abduction]
+4. The people in black are members of a gang initiating a new member through a hazing process - [Abuse]
+5. The people in black are stealing construction equipment or materials from the site - [Stealing]
+
+Most likely category: ""Arrest""",Arrest
+Arrest/Arrest011_x264.mp4,A person is smoking on the street. A person in a coat gets out of the building. A person in black leaves the building. People in orange uniforms struggle with a person in a grey top. The person in a grey top is on the ground. The people in orange stand over the person in a grey top. People in yellow police vests move the people in orange away. A person in a yellow police vest stands above the person in a grey top. More people in yellow police vests come.,"1. Abuse: The people in orange uniforms may be abusing the person in the grey top.
+2. Arrest: The person in grey may have committed a crime and the people in orange uniforms are attempting to arrest them.
+3. Assault: The person in grey may be a victim of an assault by the people in orange uniforms.
+4. Fighting: The person in grey could be engaged in a physical altercation with the people in orange uniforms.
+5. Robbery: The people in orange uniforms may be attempting to rob the person in grey.
+6. Normal: The people in orange uniforms and the person in grey could be friends playing around or engaging in a non-criminal act.
+
+Most likely category: ""Assault""",Assault
+Arrest/Arrest012_x264.mp4,A busy street with cars and pedestrians. The pedestrians move away. Someone gets thrown out of a building entrance. People in black stand over the person. A person in black fights with another person. People in black stand around. More people come and stop moving. Even more people come. Densely packed area with people standing. Police lights are flashing in the background. A yellow car drives slowly by. People in the foreground talk and hug. A line of people leave the building.,"Possible explanations:
+1. A fight broke out inside the building, and someone was thrown out - [Fighting]
+2. A person was forcefully removed from the building by security - [Assault]
+3. A robbery took place and the person thrown out was the victim - [Robbery]
+4. An arrest occurred inside the building, and the person thrown out was resisting - [Arrest]
+5. People were evacuated from the building due to a fire or other emergency - [Normal]
+6. An explosion occurred inside the building, causing people to flee - [Explosion]
+7. A shooting took place inside the building, causing panic and the person to be thrown out - [Shooting]
+
+Based on the description, the most likely category is ""Fighting.""",Fighting
+Arson/Arson001_x264.mp4,A white car door opens. A person gets out of the white car. A person puts something down. The person returns to the car. The person gets out of the car and puts something glowing down. A fire starts. The person's leg is on fire. Scene change. THe person runs quickly. Scene change. The person goes back to the car. The person gets out of the car. The person puts something on the fire. The person gets back into the car. The car drives away.,"Possible explanations:
+
+1. A person was setting someone's property on fire (Arson)
+2. A person was attempting to destroy evidence of a crime (Vandalism)
+3. A person was committing an act of pyromania (Abuse)
+4. A person was participating in street racing and the fire was accidental (Road Accident)
+5. A person was carrying out a ritual or a prank involving fire (Normal)
+
+The most likely category is ""Arson"".",Arson
+Arson/Arson002_x264.mp4,The scene is an outdoor stairway. A person in a yellow raincoat is carrying something and pulls against something near the wall. The person pulls something from the wall upwards. The person leaves a can. The person uses a hammer or some other item to hit against the wall. The person opens the can and bends near the wall. The person empties the liquid contents of the can along the ground. The liquid lights on fire. The fire stops.,"1. The person is trying to create a fire barrier to protect the area from a spreading wildfire [Normal]
+2. The person is burning away debris or weeds as a controlled burn for landscape management [Normal]
+3. The person is intentionally setting fire to the stairway as an act of arson [Arson]
+4. The person is attempting to destroy evidence or cover up a crime by setting fire to the area [Arson]
+5. The person is conducting a fire safety demonstration or practice [Normal]
+
+The most likely category is ""Arson"" as the person is intentionally setting fire to the area without any clear indication of protective or educational purposes. The other Normal category explanations appear less plausible.
+
+""Arson""",Arson
+Arson/Arson003_x264.mp4,A person pours liquid from a container along a counter. Scene change. A fire starts near a table with a green surface. The fire stops. Scene change. A fire starts on a counter.,"1. Arson: The person intentionally pours flammable liquid and starts a fire.
+2. Vandalism: The individual sets the fire as an act of destruction and damage to the property.
+3. Normal: The person spills the liquid accidentally, and the fire is unintentional.
+4. Accident: The individual is trying to clean the area with a flammable substance without realizing its risk, causing a fire.
+
+Most likely category: ""Arson""",Arson
+Arson/Arson005_x264.mp4,A person pours liquid contents of an orange container over a car. The car lights on fire.,"Possible explanations and categories:
+1. Intentional destruction of someone else's property - Vandalism
+2. Attempt to cover up evidence of a crime - Arson
+3. Angry reaction to a dispute with the owner of the car - Assault
+4. Insurance fraud by destroying their own car - Stealing
+
+Based on the video description, Arson seems to be the most likely category since the person has intentionally set the car on fire. 
+
+""Arson""",Arson
+Arson/Arson006_x264.mp4,A dark indoor scene. A person enters through the gate with a container. The person pours the liquid contents of the container on the floor. The person leaves through the gate. A fire starts from near the gate. The trail of fire continues over the floor. Flames.,"Possible explanations and categories:
+1. Intentional fire-setting (Arson)
+2. Attempt to destroy evidence (Arson)
+3. Accidental spill of flammable liquid (Normal)
+4. Vandalism involving fire (Vandalism)
+
+The most likely category is ""Arson"".",Arson
+Arson/Arson007_x264.mp4,"A street or park at night with a garden and a tree. A person is walking in the background. Scene change. The person continues walking and enters a balcony. The person puts down something rectangular that looks like paper. The person is holding something bright. The person picks the thing up. The thing appears to be on fire. The person moves the thing near a small tree. The tree glows bright yellow. Smoke is visible. The person continues holding the thing near the tree. The person watches the tree. The person picks something up, leaves it near the tree, then leaves. Scene change. The person is leaving. Smoke, ash or mist is blowing in the wind.","1. Person is setting a fire for warmth or cooking - Normal
+2. Person is setting fire to the tree - Arson
+3. Person is using fireworks or a flare - Normal
+4. Person is discarding a cigarette which ignites the tree - Normal
+5. Person is burning evidence - Normal
+
+The most likely category is ""Normal"".",Normal
+Arson/Arson008_x264.mp4,A dark indoor scene. A person pours something from a container over a desk. Scene change. Bright glowing colours spread that saturate the camera.,"1. Abuse - Pouring harmful substances on someone's belongings [Abuse]
+2. Arson - Pouring a flammable liquid to set the place on fire [Arson]
+3. Vandalism - Pouring ink or paint for destroying property [Vandalism]
+4. Normal - Pouring a harmless material for cleaning purposes [Normal]
+
+""Arson""",Arson
+Arson/Arson009_x264.mp4,"A person in a hoodie is standing near a white van. The person throws something, possibly a cigarette. The person lights something and throws it, then a fire starts. Fade to black. People in firefighter uniforms walk around the area.","1. The person in the hoodie was smoking and accidentally started a fire - Normal
+2. The person in the hoodie deliberately started a fire - Arson
+3. The person in the hoodie was attempting to cause an explosion - Explosion
+4. The person in the hoodie was vandalizing the area and accidentally started a fire - Vandalism
+
+Given the evidence of the person lighting something and throwing it, leading to a fire, the most likely category is ""Arson"".",Arson
+Arson/Arson010_x264.mp4,Two white vans are parked near a street. Two people dressed in black arrive on a motorbike. The people approach the window of a van and throw something in. A fire appears inside the van.,"Possible explanations:
+1. The two people are attempting to steal the contents of the van by setting a fire to create a distraction - [Stealing]
+2. The two people have a personal vendetta against the owner of the van and are trying to cause harm by setting the van on fire - [Vandalism]
+3. The two people are trying to destroy evidence inside the van by setting it on fire - [Arson]
+
+Most likely category: ""Arson""",Arson
+Arson/Arson011_x264.mp4,"A person is smoking in a lift. Another person holds a cigarette lighter up, with the flame on.","Possible explanations:
+1. Offering a lighter to light the cigarette [Normal]
+2. Trying to set something on fire [Arson]
+3. Threatening or intimidating the smoker [Abuse]
+4. Attempting to escalate a conflict [Fighting]
+
+The most likely category is:
+""Normal""",Normal
+Arson/Arson012_x264.mp4,A car parking lot. A person is moving near one of the cars. The area lights up. Scene change. A person is bending near a car. A fire starts near the person.,"1. Person accidentally dropped a lit cigarette near the car, starting the fire [Arson]
+2. Person purposely started the fire to cause damage to the car [Vandalism]
+3. The car had a mechanical or electrical failure that caused the fire [Normal]
+
+Given the information, I believe ""Vandalism"" is the most likely category.",Vandalism
+Arson/Arson013_x264.mp4,An outdoor scene at night featuring a footpath near a road. A person walks along the path. The person is dressed in blue and carrying a red container. The person walks up to the building then runs away. The person reapproaches the building with the container. Scene change. The person runs through the interior of a building. Something bright is following the person. There is visible smoke inside the building. Scene change. The person runs away.,"Possible explanations:
+1. The person is setting a fire (Arson).
+2. The person is stealing something (Stealing).
+3. The person is vandalizing the property (Vandalism).
+4. The person is trying to cause an explosion (Explosion).
+5. The person is involved in a robbery (Robbery).
+6. The person is fleeing from a fight (Fighting).
+
+Based on the video description, the most likely scenario is Arson, as the person is carrying a red container, and there is visible smoke inside the building.
+
+""Arson""",Arson
+Assault/Assault001_x264.mp4,Two people punch a person and push the person down on the ground. They kick the person. The person attempts to sit up. A person comes and touches the person on the head. A person runs away. A person approaches and punches the person who was previously on the ground.,"1. A fight between friends or strangers [Fighting]
+2. An assault against a specific individual by multiple people [Assault]
+3. A group trying to force the person to give up their belongings [Robbery]
+4. A retaliation for a previous conflict [Fighting]
+5. A random act of violence against an innocent person [Assault]
+
+Based on the information provided, the most likely category is ""Assault"".",Assault
+Assault/Assault002_x264.mp4,"An indoor scene with tables and chairs. People walk through the building. Two people begin fighting. People crowd around the people fighting. A person picks up a chair. Eventually, people leave.","Possible explanations:
+1. A heated argument escalated into a physical fight (Fighting)
+2. A person trying to steal someone's belongings leading to a fight (Stealing)
+3. Someone getting caught shoplifting and a fight ensuing (Shoplifting)
+4. A case of abuse between two people in a public space (Abuse)
+5. A group of people vandalizing the area and then a fight breaks out (Vandalism)
+6. A normal disagreement between two people that gets violent (Normal)
+
+Most likely category: Fighting
+
+""Fighting""",Fighting
+Assault/Assault003_x264.mp4,Inside a building near the entrance. Two people are standing at the entrance. People rush in. Two people in black tops grab Person1. One repetitively hits Person1 with a pipe or batton. A person kicks Person1. Person1 is held by another person. A person continues hitting Person1. Person1 is lying on the entrance to the building. A person hits Person1. A person holds Person1's arm. People leave the building.,"Possible explanations:
+1. ""Assault"" - Person1 is being attacked by a group of people with weapons.
+2. ""Fighting"" - Person1 may have started a fight with the group, causing them to react violently.
+3. ""Robbery"" - The group is stealing from the building and attacking Person1 to prevent them from interfering.
+4. ""Abuse"" - The group is intentionally causing harm to Person1 without any reasonable explanation or motive.
+5. ""Normal"" - The incident is a misunderstanding or an accident, not intended as an act of violence.
+
+The most likely category is ""Assault"".",Assault
+Assault/Assault004_x264.mp4,"An outdoor street with a footpath. Four people stand around. A car approaches and people get out. The people who were standing around run away. A person hits another person with a stick. Another person starts hitting the person with a stick. A person taps the person hitting people with the stick on the back, then grabs another stick and starts hitting the person. The person who was hit sits up and covers their head. They are in a pool of red fluid. The people with sticks return to the car and drive away.","Possible explanations:
+1. Attempted robbery - Robbery
+2. A planned assault - Assault
+3. A case of mistaken identity - Assault
+4. A gang initiation - Assault
+5. Revenge for a personal issue - Assault
+
+The most likely category is ""Assault"".",Assault
+Assault/Assault005_x264.mp4,"An outdoor scene with a footpath. People in hoodies form a packed group, The people start fighting. The people in hoodies run away. A person in plain clothes stands up and walks away.","1. A group of friends playfully fighting [Fighting]
+2. A gang fight [Fighting]
+3. An altercation between rival groups [Fighting]
+4. A prank gone wrong [Normal]
+5. A spontaneous street fight [Fighting]
+6. A group engaging in self-defense training [Normal]
+
+Most likely category: ""Fighting""",Fighting
+Assault/Assault006_x264.mp4,"An indoor scene with a counter and a stage. Person1 in a white coat crawls in and up onto the stage. Another person enters, and Person1 runs up to the person and wrestles with them. Person1 puts their arms in the air. A person slaps Person1 in the back of the head. People in casual clothes crowd around Person1 and slap them in the back of the head. Person1 falls down and people grab Person1's legs. A person grabs Person1's head and another person hits Person1. A person in a purple top makes a calming gesture. The people carry Person1 to the stage. A person hits Person1 and pulls them off the stage. A person in a police uniform enters.","Possible explanations:
+1. Person1 is attempting to steal something from the stage - [Stealing]
+2. Person1 is engaging in a physical altercation with another person - [Fighting]
+3. Person1 is being physically assaulted by others - [Assault]
+4. Person1 is being stopped by police for suspicion of a crime - [Arrest]
+
+Considering the events in the surveillance video, the most likely category is ""Fighting"".",Fighting
+Assault/Assault007_x264.mp4,"An indoor scene. Person1 is lying down between two ATM machines. A person slowly enters the building, carrying a stick, which they lift above their head. The person hits Person1 with the stick repetitively. Another person with a stick enters and switches position. The person hits the camera with the stick. A third person enters. A person continues hitting Person1 with the stick, then hits the roof with the stick. The camera stops working.","Possible explanations:
+1. A group of people attacking Person1 for personal reasons [Assault]
+2. A group of people attempting to destroy the ATM machines and Person1 is a security guard trying to protect them [Robbery]
+3. A group of people punishing Person1 for an illegal act they caught them doing [Arrest]
+4. A group of people vandalizing the building and targeting Person1 as well [Vandalism]
+
+The most likely category is ""Assault"".",Assault
+Assault/Assault008_x264.mp4,An outdoor scene. People start walking into an area near a fence. A person pushes Person1. Person1 is left lying down. People start fighting Person2. Person2 is left lying down. Person2 stands up. A person punches Person2. Person2 is left lying on the ground. A person kicks Person3. Person3 stands up. Person2 stands up. A fight begins. The people walk away leaving Person1 and Person2 lying on the ground.,"Possible explanations:
+1. Group fight involving Person1, Person2, and Person3 [Fighting]
+2. Person1 and Person2 being attacked/robbed by other people [Assault, Robbery]
+3. Person1 and Person2 trying to trespass or shoplift, getting caught and assaulted [Shoplifting, Assault]
+4. Person3 defending themselves after being confronted by other people, escalating into a fight [Assault, Fighting]
+
+Considering the sequence of events in the video, the most likely category is ""Fighting"".",Fighting
+Assault/Assault009_x264.mp4,A bar or restaurant scene. A person is sitting at a table with empty glasses. Person1 punches another person. People grab Person1. People start pushing and shoving. A person holds their hands up in a placating gesture.,"Possible explanations:
+1. Person1 is drunk and became aggressive, leading to a fight (Fighting)
+2. Person1 is attempting to rob the establishment (Robbery)
+3. Person1 has a personal issue with the person they punched (Assault)
+4. The punch is an act of self-defense in response to a threat (Normal)
+
+Most likely category: ""Fighting""",Fighting
+Assault/Assault010_x264.mp4,"An indoor scene. People are lying down in beds. A person in striped white and black clothing drinks something from a cup. A person sits up in bed, also wearing white and black clothing, grabs a broom, and starts sweeping the floor. A person sits back down on a bed. Person1 is wearing white and black trousers and punches the person sitting on the bed. Person1 hits someone with a broom stick pole. Person1 hits another person with a broom stick pole. People in blue uniforms enter and walk up to Person1. Person1 puts their hands behind their back. A person in a blue uniform walks away with Person1.","Possible explanations:
+1. Person1 is attacking other people with a broom stick pole [Assault]
+2. Person1 is demonstrating a self-defense technique with the broom stick pole [Normal]
+3. Person1 is playing a violent game with others, hitting them with a broom stick pole [Fighting]
+4. Person1 is being arrested for their behavior [Arrest]
+
+Most likely category: ""Assault""",Assault
+Assault/Assault011_x264.mp4,An outdoor scene. Three people hit Person1 with sticks. Person1 runs away. One of the people continues using the stick to hit someone or something out of camera. The people with sticks run away.,"Possible explanations:
+1. A group of people attacking Person1 as an act of aggression (Assault)
+2. Person1 potentially stealing something, and the three people attempting to stop them (Robbery)
+3. The attackers trying to force information out of Person1 (Abuse)
+4. The group acting out a scene for a film, and it was staged (Normal)
+5. The three people vandalizing property and Person1 happens to be in the way (Vandalism)
+
+Assault is the most likely category.
+
+""Assault""",Assault
+Assault/Assault012_x264.mp4,An outdoor scene at night. Person1 runs up behind Person2. Person2 falls to the ground. Person1 walks away. People come up to Person2.,"Possible explanations:
+1. Person1 pushed Person2, causing them to fall - Assault
+2. Person1 stole something from Person2, causing them to fall - Robbery
+3. Person1 accidentally bumped into Person2, causing them to fall - Normal
+4. Person1 helped Person2 who was feeling dizzy or about to fall - Normal
+
+Most likely category: ""Normal""",Normal
+Burglary/Burglary001_x264.mp4,"A vehicle crashes through a door. Gas is visible. Person1 grabs something. Person2 is wearing a mask, grabs something large, and begins rolling it towards the door. Person2 carries a box towards the vehicle. A person helps another person move the heavy object towards the vehicle. The people push the heavy object into the vehicle. The vehicle drives away.","1. Burglary: A group of thieves forcefully entering a property and stealing valuables.
+2. Robbery: Individuals committing a heist and taking valuable items using force or threats.
+3. Stealing: People taking items from a place unlawfully.
+4. Vandalism: Individuals causing destruction to a property for fun or out of anger.
+
+Most likely category: ""Burglary""",Burglary
+Burglary/Burglary002_x264.mp4,An indoor scene. A person dressed in white with something white covering their head enters the building. The person opens a fridge door. The person squats down and takes items from the fridge. The person stands up and leaves the building.,"Possible explanations:
+1. The person is an employee restocking the fridge (Normal)
+2. The person is stealing items from the fridge (Stealing)
+3. The person is a health inspector checking the fridge's contents (Normal)
+4. The person is someone not authorized to be in the building (Burglary)
+
+The most likely category is ""Normal"".",Normal
+Burglary/Burglary003_x264.mp4,The scene is a pile of boxes stacked inside a corridor. A person takes something that looks like bricks from the boxes. The person slowly leaves holding a crowbar in their hands.,"Possible explanations:
+
+1. The person is stealing bricks from the boxes and plans to use the crowbar for forced entry elsewhere - Burglary.
+2. The person is removing bricks from the boxes to vandalize the corridor or another location - Vandalism.
+3. The person is engaged in a legitimate task, such as construction or maintenance, and is using the crowbar as a tool - Normal.
+
+In this situation, the most likely category would be ""Burglary"" since the person appears to be taking bricks without permission and also carries a crowbar, which can be used in forced entry. However, it's important to consider other possibilities, like vandalism and normal work, especially without additional context.
+
+""Burglary""",Burglary
+Burglary/Burglary004_x264.mp4,A Car reverses into the door of a building then drives forward. The door of the building is smashed. People wearing hoods enter the building. The people push something large. The people leave the large object and get into the car. The car drives backwards into the heavy object. The car drives forward. People in hoods enter the building and carry the large object into the boot of the car. The car drives away.,"1. ""Vandalism"": The people were intentionally damaging the door of the building for fun or revenge.
+2. ""Burglary"": The people were attempting to steal something from the building and needed to break the door to gain entry.
+3. ""Arson"": The people were attempting to set the building on fire, but this scenario is unlikely as there is no mention of fire or flammable materials.
+4. ""Assault"": The people were trying to harm someone inside the building, however, there is no mention of any individuals inside the building or any violence.
+5. ""Normal"": The incident was accidental and not related to any criminal activity, but this explanation seems unlikely based on the described actions of the people involved.
+
+Based on the available information, the most likely category is:
+""Burglary""",Burglary
+Burglary/Burglary005_x264.mp4,The scene is the path and garden outside of a building. A person walks along the path and knocks on the door. The person reaches into their pocket and makes a phone call. The person continues knocking on the door. The person ends the phone call and goes back to knocking on the door. The person walks away from the door. Another person walks along the path and stands next to the first person. The person kicks the door with their leg three times then walks through the door with the other person. The person leaves carrying a large rectangular object. The person comes back up to the door then runs away. The other person runs away too.,"Possible explanations:
+1. The person is trying to get the attention of someone inside the building (Normal)
+2. The person is trying to break into the building (Burglary)
+3. The person is trying to steal the large rectangular object (Stealing)
+4. The person is helping someone inside with an emergency (Arrest)
+5. The person is causing damage to the property by kicking the door (Vandalism)
+
+Most likely category: ""Burglary""",Burglary
+Burglary/Burglary006_x264.mp4,A person is crawling behind a bar counter. The person stands up. The person is carrying something. The person takes a drink. The person crawls away.,"Possible Explanations:
+1. The person is trying to avoid being seen and steal a drink (Stealing)
+2. The person is playing a game or prank with friends (Normal)
+3. The person is searching for something behind the counter (Normal)
+4. The person is attempting to rob the establishment (Robbery)
+
+After reviewing the possible explanations, the most likely category is ""Stealing"".",Stealing
+Burglary/Burglary007_x264.mp4,"A car reverses up to a building. A person uses a stick to open the building door. Scene change. A car reverses up to a building. A person ties a rope around a large object. The car drives forward, towing the large object out the door.","1. Theft of a large object from the building [Stealing]
+2. Unauthorized removal of an object for a prank [Vandalism]
+3. Retrieving their own property mistakenly locked in the building [Normal]
+4. Clearing debris from a prior incident [Normal]
+5. Attempted burglary but decided to only take the large object [Burglary]
+
+The most likely category is ""Stealing"".",Stealing
+Burglary/Burglary008_x264.mp4,"An empty dining room with tables. Person1 enters, dressed in a hood with a piece of paper covering their face. Person1 is carrying a rope, with one end tied to a black vehicle. Another person is near the door. The vehicle drives forwards. Chairs and a table fall over. A person in a black hoodie enters the building. Two people carry something large out the door and into the vehicle.","1. Burglary: Person1 and their accomplice are stealing something large from the dining room and using the vehicle to transport their loot.
+2. Vandalism: Person1 and their accomplice are causing damage to the dining room by pulling over the tables and chairs with the vehicle.
+3. Normal: Person1 and their accomplice are restaurant employees moving furniture with an unconventional method.
+
+Considering the suspicious behavior and the fact that the person is covering their face, the most likely category is ""Burglary"".",Burglary
+Burglary/Burglary009_x264.mp4,The scene is an empty store at night. The door is pulled off its hinges. People dressed in black enter. The people in black push objects around. A person ties a rope to a large object. The large object is towed away. The window is smashed.,"Possible explanations:
+1. ""Burglary"" - People dressed in black breaking into the store, pushing objects around, and towing away a large object.
+2. ""Vandalism"" - The window is smashed, and the store's door is pulled off its hinges.
+3. ""Robbery"" - Similar to burglary, but the presence of the large object being towed away could indicate a higher value item being stolen.
+
+The most likely category is ""Burglary"".
+""Burglary""",Burglary
+Burglary/Burglary010_x264.mp4,The scene is a path with two ATM machines. People come up to the ATM machines and forcefully poke/prod the ATM machines with long sticks. A person with a bag provides something to some of the people. The people walk away. The ATM machines catch fire. Smoke leaves the ATM machine. The camera is saturated with colours.,"Possible explanations:
+1. People are attempting to break into the ATM machines to steal money [Burglary]
+2. People are intentionally causing damage to the ATM machines as an act of vandalism [Vandalism]
+3. People have a grudge against the bank and are trying to destroy the ATM machines as a form of protest [Arson]
+4. The sticks contain flammable material which is causing the ATM machines to catch fire [Arson]
+5. The person with the bag is giving the others tools or objects to aid in damaging the ATM machines [Vandalism]
+
+Most likely category: ""Arson""",Arson
+Burglary/Burglary011_x264.mp4,The scene is the inside of an empty room with seating. A vehicle enters the room in reverse. Bricks are visible on the floor where the vehicle entered the room. People enter the room. The vehicle drives forward then reverses. A person moves a chair. The people get into the car and open the boot. The car drives forward out of the room.,"Possible explanations:
+1. People are moving items out of the room using the vehicle [Normal]
+2. The vehicle was stolen and driven into the room to hide it [Stealing]
+3. People are trying to cause destruction to the property by driving a car into it [Vandalism]
+4. The vehicle is being used to transport stolen goods from a robbery [Robbery]
+
+The most likely category based on the description is ""Normal"".",Normal
+Burglary/Burglary012_x264.mp4,The scene is the inside of a shop at night. People are pulling something off a wall. It appears to be firearms attached to a rope. A person picks up multiple firearms and leaves. A person jumps over the counter.,"Possible explanations:
+1. People stealing firearms from the shop [Stealing]
+2. People vandalizing the shop and taking firearms as a part of it [Vandalism]
+3. People taking firearms to use them for committing a robbery [Robbery]
+4. People planning to use the firearms in illegal activities [Abuse]
+5. People forcefully taking the firearms without paying [Shoplifting]
+
+Most likely category: ""Stealing""",Stealing
+Explosion/Explosion001_x264.mp4,"The scene is a sidestreet at night with a parked caravan. Something bright appears in the distance and saturates the camera. Debris, dust, and glass are in the air.","Possible explanations:
+1. Gas explosion (Explosion)
+2. Car crash with explosion (Road Accident)
+3. Fireworks accident (Normal)
+4. Bomb detonation (Arson)
+
+Most likely category: ""Explosion""",Explosion
+Explosion/Explosion002_x264.mp4,The scene is a fuel station at night. A tanker truck drives through. Two people walk up to a red car. Flames appear on the car near the two people. The flames spread. The people run. The flames die down. A person in a red top grasps something and spreads vapour on the car. The people get in the car. The car drives off.,"Possible explanations:
+1. Someone intentionally set the car on fire for insurance fraud [Arson]
+2. Accidental fire occurred due to a leakage of fuel [Explosion]
+3. An act of vandalism by someone setting the car on fire [Vandalism]
+4. The car was set on fire due to a dispute, as an act of revenge [Arson]
+5. The two people attempted to steal something, causing the fire in the process [Stealing]
+6. The flames were part of a prank or a performance [Normal]
+
+Given the context, the most likely category is ""Arson"".",Arson
+Explosion/Explosion003_x264.mp4,The scene is a road seen through a vehicle dash cam. Smoke erupts from the back of a car. A tire is visible in the air. The car stops. People get out.,"Possible explanations:
+1. Tire explosion due to excessive heat or damage (Explosion)
+2. Car accident resulting in smoke and a dislodged tire (Road Accident)
+3. Intentional damage to the car causing the smoke and tire issue (Vandalism)
+4. A collision with another object, like debris or a pothole, leading to the smoke and tire in the air (Road Accident)
+
+The most likely category is ""Road Accident"".",RoadAccident
+Explosion/Explosion004_x264.mp4,"Two people wearing gas masks are standing near a door. Bright lights saturate the camera, starting at the door. Smoke is visible and something near the door is on fire. A hose is on the ground. The people return. One of them picks up the hose and extinguishes fire with a stream of water from the hose.","Possible explanations:
+1. Arson - setting fire to a building and trying to extinguish it
+2. Explosion - a gas explosion that caused a fire
+3. Fighting - people fighting with fire as a weapon
+4. Vandalism - causing damage to a building by setting it on fire
+5. Normal - a controlled situation where they are practicing firefighting
+
+Most likely category: ""Arson""",Arson
+Explosion/Explosion005_x264.mp4,The scene is a road at day. A flaming vehicle crashes through a barrier. The traffic stops.,"Possible explanations:
+1. Car caught fire due to a mechanical issue and hit the barrier - Road Accident
+2. Driver intentionally set the car on fire and caused the crash - Arson
+3. Car exploded due to a bomb or explosive materials - Explosion
+4. Car was involved in an earlier crime and was set on fire to destroy evidence - Abuse
+5. Reckless driver crashed into the barrier and the impact caused the car to burst into flames - Road Accident
+
+Most likely category: ""Road Accident""",RoadAccident
+Explosion/Explosion006_x264.mp4,The scene is a traffic intersection at day. Fire appears near a vehicle and a plume of smoke. The traffic stops. People run up to the vehicle.,"Possible explanations:
+1. A car accident occurred, causing the fire - Road Accident
+2. A car exploded due to a malfunction - Explosion
+3. Someone set the car on fire on purpose - Arson
+
+Most likely category: ""Explosion""",Explosion
+Explosion/Explosion007_x264.mp4,The scene is a footpath near a road. People walk along the footpath. Vehicles drive along the road. The camera saturates in bright light. Smoke is visible. Gas or smoke is visible. People walk about in the smoke.,"Possible explanations:
+1. A gas leak or explosion causing smoke (Explosion)
+2. A vehicle accident leading to smoke (Road Accident)
+3. A fire caused by arson, burning nearby objects (Arson)
+4. Smoke grenades used by police during an arrest (Arrest)
+5. Normal fog or mist mixed with vehicle exhaust (Normal)
+
+Considering the available information, the most likely category is ""Explosion"".",Explosion
+Explosion/Explosion008_x264.mp4,The scene is a road at day. A large plume of smoke is visible. The camera shakes. Smoke clouds are visible in the background.,"Possible explanations:
+1. A car accident with fire - [Road Accident]
+2. A gas explosion - [Explosion]
+3. An arson attack - [Arson]
+
+Most likely: ""Explosion""",Explosion
+Explosion/Explosion009_x264.mp4,An outdoor scene. Two people are waiting under a shelter. A wave of fire spreads out and saturates the camera. The people run away. Fires are burning.,"1. Gas leak explosion [Explosion]
+2. Arson attack [Arson]
+3. Firework accident [Explosion]
+4. Car crash causing fire [Road Accident]
+5. Molotov cocktail thrown [Arson]
+
+Most likely category: ""Arson""",Arson
+Explosion/Explosion010_x264.mp4,An outdoor scene with trees. A large plume of smoke spreads out in the background and rises into the air. Scene change to trees. Something is burning and there is smoke going up in the air.,"Possible explanations:
+1. Forest fire [Normal]
+2. Fire from an explosion [Explosion]
+3. Someone burning leaves or debris [Normal]
+4. Arson [Arson]
+5. Car accident with a fire [Road Accident]
+6. Building fire [Normal]
+
+Most likely category: ""Normal""",Normal
+Explosion/Explosion011_x264.mp4,The scene is outdoors at day featuring a two way road with traffic flowing in both directions. People run across the street. A white ball is thrown at a bus and turns into a large gas/smoke cloud. Traffic continues.,"1. Prank gone wrong [Abuse]
+2. Terrorist attack [Explosion]
+3. Riot control agent demonstration [Normal]
+4. Flashbang thrown by police [Arrest]
+5. Road rage incident [Fighting]
+6. Collision with smoke-producing object [Road Accident]
+
+Most likely category: ""Explosion""",Explosion
+Explosion/Explosion012_x264.mp4,The scene is an intersection at day. Fire and smoke appear in the background.,"Possible explanations:
+1. Car accident causing an explosion (Road Accident)
+2. Gas leak leading to an explosion (Explosion)
+3. Arson attack on a building or vehicle (Arson)
+
+Most likely category: ""Explosion""",Explosion
+Fighting/Fighting002_x264.mp4,The scene is a bar. A person throws a drink. A person throws two chairs. A person smashes things on the counter.,"1. A heated argument between patrons escalated into physical violence [Fighting].
+2. A customer was unsatisfied with their service and lashed out against the bar and its staff [Vandalism].
+3. An individual was attempting to rob the bar, using physical destruction to create fear and confusion [Robbery].
+4. A person under the influence of drugs or alcohol was acting aggressively and unpredictably [Assault].
+5. Someone was trying to provoke a fight with other patrons on purpose [Fighting].
+6. A customer was defending themselves from an unwarranted attack from another person [Assault].
+7. A staged scene in a movie or TV show, scripted for dramatic effect [Normal].
+
+Considering the possibilities listed above, the most likely category is ""Fighting"".",Fighting
+Fighting/Fighting003_x264.mp4,The scene is a public transport stop. People walk around. A group of people wrestle. Another group of people kick and punch. Another group of people kick and punch. A train passes in the background.,"Possible explanations:
+1. A fight among the passengers at the public transport stop [Fighting]
+2. A group of people trying to arrest a suspected criminal [Arrest]
+3. A case of bullying or harassment among passengers [Abuse]
+4. An act of vandalism leading to violent reactions from the passengers [Vandalism]
+5. A robbery attempt where the victims try to defend themselves [Robbery]
+
+The most likely category considering the given surveillance video description is ""Fighting"".",Fighting
+Fighting/Fighting004_x264.mp4,"The scene is the inside of a room with a billiard table. People shove, punch and shove each other. A person hits another person over the head with a billiard cue. A person hits them back with another billiard cue. A person wearing purple punches another person. People talk. A person punches another person. A group of people wrestle. A person punches. A person picks up a chair. People grab them. A person kicks someone. A person hits someone with their elbow.","Possible explanations:
+1. Bar fight (Fighting)
+2. Escalation of a friendly game (Fighting)
+3. Attempted robbery with violence (Robbery)
+4. Gang-related confrontation (Fighting)
+
+The most likely category is ""Fighting"".",Fighting
+Fighting/Fighting005_x264.mp4,"The scene is night inside a building. A white van passes by the entrance. Two people walk inside, dressed in black and wearing masks. The people bring something out. A person wrestles with one of the people. A person runs inside the building.","Possible explanations:
+1. Thieves breaking into the building to steal - [Burglary]
+2. People involved in a fight - [Fighting]
+3. Vandals damaging property - [Vandalism]
+4. Robbers attempting a heist - [Robbery]
+5. Undercover agents making an arrest - [Arrest]
+
+Based on the surveillance video description, ""Burglary"" is the most likely category. 
+
+""Burglary""",Burglary
+Fighting/Fighting006_x264.mp4,The scene is a waiting area with plastic chairs. Person1 punches Person2. Person2 falls to the ground. A person drags Person1 away. People dressed in security guard uniforms enter.,"1. Person1 was provoked by Person2 and retaliated - [Fighting]
+2. Person1 and Person2 were involved in an argument that escalated - [Fighting]
+3. Person1 attacked Person2 in an attempt to steal their belongings - [Robbery]
+4. Person1 assaulted Person2 as part of a gang initiation - [Assault]
+5. Person1 and Person2 were play fighting, and it got out of control - [Normal]
+
+Most likely category: ""Fighting""",Fighting
+Fighting/Fighting007_x264.mp4,An outdoor scene. People kick and punch another person on the ground. A person walks over to the person who is on the ground. Another pair of people begin fighting.,"Possible explanations:
+1. Group of people attacking a person for personal reasons (Assault)
+2. A group of friends play-fighting (Normal)
+3. A planned fight between two people, and their friends join in (Fighting)
+4. A group of people reacting in self-defense (Assault)
+5. Bystanders intervening in a robbery (Robbery)
+
+The most likely category is ""Assault"".",Assault
+Fighting/Fighting008_x264.mp4,An outdoor scene at night. A busy road is in the background. Motorcycles are parked on the street. A pot is steaming over a stove. People are watching something. Two people are fighting each other. A group of people start fighting in the background. People leave on motorcycles. A bus drives past. People are fighting in the foreground. A person is left lying on the ground. A person helps the person on the ground up. People crowd around and carry the person who was on the ground away. A person takes the pot off the stove. A person with a stick charges at two people. A person throws something.,"Possible explanations:
+1. A street fight among rival groups (Fighting)
+2. A robbery gone wrong, leading to a fight (Robbery)
+3. A group of people attacking a person (Assault)
+
+The most likely category is ""Fighting"".",Fighting
+Fighting/Fighting009_x264.mp4,The scene is a busy bar with people. Person1 shoves Person2 to the ground. Person1 punches Person3. Person3 falls to the ground. Person1 leaves.,"Possible explanations:
+1. Person1 is intoxicated and loses control, leading to a fight. [Fighting]
+2. Person1 is trying to steal something from the bar, and attacks Person2 and Person3 to avoid being caught. [Stealing]
+3. Person1 and Person3 are involved in a previous altercation, and Person1 takes revenge by attacking them. [Assault]
+4. Person1 has a personal issue with Person2 and Person3 and decides to confront them violently. [Abuse]
+
+Considering the listed possible explanations, the most likely category is ""Fighting"".",Fighting
+Fighting/Fighting010_x264.mp4,An outdoor scene at night. Person1 shoves Person2. Person2 shoves back Person1. People arguing.,"Possible explanations:
+1. Friends playfully shoving each other (Normal)
+2. A heated disagreement between two people (Fighting)
+3. A robbery attempt where one person tries to steal from another (Robbery)
+4. An altercation involving alcohol or drug use (Assault)
+
+Most likely category:
+""Fighting""",Fighting
+Fighting/Fighting011_x264.mp4,A prison cell with people sleeping on the floor and benches. Person1 stands above Person2 then starts punching Person2. Person2 takes off their shirt and starts punching Person1. Person1 and Person2 are lying on the floor. People dressed in police uniforms come in and hold Person1. The people in police officer uniforms come up to Person1. Person1 stands against the cell door with their hands behind their back. The people in police uniforms take Person1 away. People in police uniforms sit near Person2.,"1. Abuse - Person1 could be abusing Person2, leading to the fight.
+2. Assault - Person1 or Person2 could have initiated an assault which led to the fight.
+3. Fighting - Person1 and Person2 could be fighting due to disagreements or personal conflicts.
+4. Normal - The fight could be a result of normal tension and hostility within a prison environment.
+
+The most likely category is ""Fighting"".",Fighting
+Fighting/Fighting012_x264.mp4,Two people start fighting outside a house. A third person comes out of the house. A person closes the house door.,"1. The two people outside the house are having a heated argument that leads to physical violence [Fighting]
+2. One person forcibly tries to enter the house, and the other person tries to prevent this, leading to a fight [Burglary]
+3. The two people are involved in a domestic dispute, which escalates to violence [Abuse]
+4. A person is trying to repossess property from the other person, leading to a fight [Stealing]
+5. One person tries to vandalize the house, and the other person tries to stop them [Vandalism]
+6. The two people are play-fighting, which turns serious [Normal]
+
+Most likely category: ""Fighting""",Fighting
+Fighting/Fighting013_x264.mp4,A person in a white shirt punches people in suits. The person in a white shirt hits the people in suits with a chair. The people in suits leave through a door. The person in a white shirt throws a chair at the door.,"Possible explanations:
+1. The person in a white shirt is involved in a bar fight with the people in suits. (Fighting)
+2. The person in a white shirt is defending themselves against an attempted robbery by the people in suits. (Robbery)
+3. The person in a white shirt is attacking the people in suits without provocation. (Assault)
+4. The people in suits are trying to remove the person in a white shirt from the premises due to unruly behavior. (Abuse)
+
+The most likely category in this situation is ""Fighting"".
+
+""Fighting""",Fighting
+Normal_Videos_event/Normal_Videos_015_x264.mp4,People walk through a shopping centre.,"Possible explanations:
+1. People are shopping: Normal
+2. People are meeting friends or family: Normal
+3. People are picking up food or drink: Normal
+4. Someone is discreetly shoplifting: Shoplifting
+5. A person plans to perform a robbery: Robbery
+6. A group of people is searching for a person to assault: Assault
+7. Someone is scoping out the location for a potential burglary: Burglary
+
+Most likely category: ""Normal""",Normal
+Normal_Videos_event/Normal_Videos_050_x264.mp4,Cars drive along a road with three lanes and a fourth lane that splits off the main road. Other cards drive in the other direction. A bright blue bus drives along the road. Another two blue buses come. A car merges between the two buses. More bright blue buses come. Multiple taxis come. Cars continue driving down the road. Some cars use the fourth lane.,"1. Normal traffic flow and buses on their regular schedule - Normal
+2. A car merges between two buses, could be an attempt to escape a Robbery - Robbery
+3. Multiple taxis in traffic may be due to a shift change or nearby special event - Normal
+4. Cars using the fourth lane as a shortcut, potentially breaking traffic rules - Abuse
+
+The most likely category is ""Normal"".",Normal
+Normal_Videos_event/Normal_Videos_100_x264.mp4,Person1 wears a blue top and stands behind the counter at a hardware store. Two people wearing blue business shirts and black pants are queued up in close proximity to each other. Person1 packs something in a bag and hands it to the first person. The camera turns. A person in a pink top lifts up a box of something. A person in a green top is carrying something white and square in shape.,"1. Person1 is assisting customers with their purchases [Normal].
+2. Customers in blue business shirts and black pants are buying items together as they work in the same company [Normal].
+3. Person in pink top is lifting a box to examine the item before purchasing [Normal].
+4. Person in green top is carrying a white square-shaped item, possibly buying a home appliance or a large gift [Normal].
+
+The most likely category is ""Normal"".",Normal
+Normal_Videos_event/Normal_Videos_129_x264.mp4,An outdoor street scene at night with lamps. A white truck with a yellow scissor lift is parked on the street. A group of three people dressed in black with with hats walk down the street. The truck begins to reverse. A person wearing an orange safety vest holds up their hands.,"Possible explanations:
+1. The group of people is planning to steal the scissor lift [Stealing]
+2. The person in the orange vest is directing the driver of the truck for parking or navigating [Normal]
+3. The group of people is involved in vandalizing the area [Vandalism]
+4. The person in the orange vest is trying to warn the group of people about the reversing truck [Road Accident]
+
+The most likely category is ""Normal"".",Normal
+Normal_Videos_event/Normal_Videos_150_x264.mp4,People come up steps and walk down a ramp. Some people are standing near an entrance/exit in the distance.,"Possible explanations:
+1. People are entering or exiting a public building (Normal)
+2. People are gathering to watch a fight (Fighting)
+3. People are fleeing from a crime scene (Robbery, Stealing, Burglary)
+4. People are standing near an entrance/exit due to a fire alarm (Arson)
+
+The most likely category is ""Normal"".",Normal
+Normal_Videos_event/Normal_Videos_246_x264.mp4,"The scene is a room with desks/poster stands and a large empty space in the middle. Person1 stands behind a chair and points at something. Person2 walks past. Two people stand near a desk, one of whom is wearing a red cap. All four people start walking about the room. A person crosses their arms.","1. The individuals are coworkers discussing a project-related issue (Normal)
+2. Person1 is accusing Person2 of stealing something (Stealing)
+3. The individuals are having a heated disagreement which could lead to fighting (Fighting)
+4. They are discussing a recent incident of vandalism in the room (Vandalism)
+5. Person1 is pointing at evidence of a recent burglary in the room (Burglary)
+
+The most likely category based on the surveillance video description is:
+""Normal""",Normal
+Normal_Videos_event/Normal_Videos_247_x264.mp4,"Person1 is behind a counter holding money. Person2 moves a coffee near to where Person1 is working, sits it on the table and puts money on the table. Person2 then takes the coffee. Person1 opens the cash register and puts money in. Person3 moves a coffee and a sandwich/hotdog up to the counter, then hands Person1 money. Person1 opens the cash register and puts money in. Person1 walks away and then returns to the counter. Person4 is wearing a blue shirt and carrying a handbag. Person4 puts a coffee on the counter. Person4 opens the handbag, takes out money, and hands it to Person1. Person1 opens the cash register, and hands something to Person4. Person1 walks away and then returns to the counter.","Possible explanations:
+1. Abuse - unlikely
+2. Arrest - unlikely
+3. Arson - unlikely
+4. Assault - unlikely
+5. Burglary - unlikely
+6. Explosion - unlikely
+7. Fighting - unlikely
+8. Road Accident - unlikely
+9. Robbery - unlikely
+10. Shooting - unlikely
+11. Shoplifting - unlikely
+12. Stealing - unlikely
+13. Vandalism - unlikely
+14. Normal - likely (customers purchasing items at a counter)
+
+""Normal""",Normal
+Normal_Videos_event/Normal_Videos_248_x264.mp4,"An outdoor scene with a building and two parked cars. A person leaves the building through glass doors, holding a white piece of paper. Additional people follow. A person wearing black holds up paper or a sign.","Possible explanations:
+1. People leaving the building after a meeting or class [Normal]
+2. People protesting with signs outdoors [Normal]
+3. Person caught shoplifting and being escorted out of the building [Shoplifting]
+4. Person leaving the building after being accused of assault [Assault]
+5. Individuals being evacuated due to a potential threat [Arson, Explosion, Shooting]
+
+Most likely category: ""Normal""",Normal
+Normal_Videos_event/Normal_Videos_251_x264.mp4,Cars are parked by a road. Traffic moves along the road. People walk along the footpath.,"Possible explanations:
+1. People going about their daily activities - Normal
+2. Car theft - Stealing
+3. Hit and run - Road Accident
+4. Cars being vandalized - Vandalism
+5. Robbery on footpath - Robbery
+
+Most likely category: ""Normal""",Normal
+Normal_Videos_event/Normal_Videos_289_x264.mp4,"The scene is a classroom. Children are sitting on chairs at desks with notebooks open, writing with pencils. Bags are on the back of their chairs. A person wearing red/pink is standing near a chalkboard at the front of the classroom. A small fan is rotating.","1. A teacher is teaching the class about a subject [Normal]
+2. A guest speaker is giving a presentation to the class [Normal]
+3. A student has been called to the front of the class to answer a question [Normal]
+4. A student is giving a presentation or report in front of the class [Normal]
+5. A teacher or faculty member is reprimanding a student for a misbehavior [Normal]
+6. A student is writing on the chalkboard as a form of punishment [Normal]
+7. A subject involving pictures or diagrams is being taught [Normal]
+
+Based on the given video description, there is no indication of any criminal activity or negative events taking place. The most likely category is:
+
+""Normal""",Normal
+Normal_Videos_event/Normal_Videos_310_x264.mp4,"The scene is an outdoor sports area with high rise buildings in the distance. A group of five people stand near a basketball hoop. One of the people throws the basketball at a hoop. A person bounces the ball and throws it towards the hoop. A person throws the ball to another person, moves, then the person passes the ball back. The person throws it at the hoop. A person in black throws the ball at the hoop and the ball goes through the hoop.","1. Friends playing basketball - Normal
+2. Basketball team practice - Normal
+3. Street basketball competition - Normal
+4. Basketball court disturbance - Fighting
+5. Altercation during the game - Fighting
+
+Most likely category:
+
+""Normal""",Normal
+Normal_Videos_event/Normal_Videos_312_x264.mp4,"The scene is a food store. A person walks by. A person dressed in a green hoodie walks by and looks at items. A person wearing a blue jumper picks up an item and puts it back. The person in a green hoodie reaches in to touch or pick something up, then walks away without anything.","1. The person in the green hoodie was just browsing and decided not to buy anything [Normal].
+2. The person in the green hoodie picked up an item but decided to return it before leaving [Normal].
+3. The person in the green hoodie was checking items for damage before making a purchase [Normal].
+4. The person in the green hoodie was comparing prices at different stores [Normal].
+5. The person in the green hoodie shoplifted a small item [Shoplifting].
+6. The person in the green hoodie felt pressured to leave quickly due to social anxiety [Normal].
+
+Based on the available information, the most likely category is:
+
+""Normal""",Normal
+RoadAccidents/RoadAccidents001_x264.mp4,"An outdoor scene at night. A vehicle with lights hits a vehicle with a single light. A person flies at high speed and rotates in the air then hits a wall. The person is lying on the ground. A person on a motorbike comes up, and climbs on top of a fence to look at the person on the ground.","Possible explanations:
+1. Road Accident: A vehicle accidentally hit another vehicle, causing the person to be thrown into the air and hit the wall.
+2. Assault: The person on the motorbike intentionally caused the accident to harm the person in the vehicle.
+3. Normal: The incident was a staged stunt performed for a film or video, with no criminal intent.
+
+Most likely category: ""Road Accident""",RoadAccident
+RoadAccidents/RoadAccidents002_x264.mp4,"An outdoor scene with a road and a footpath. A bus hits a sign on the footpath, knocks a person down, and crashes into a lamppost.","Possible explanations:
+1. Bus driver lost control of the vehicle [Road Accident]
+2. Bus driver was under the influence of drugs or alcohol [Road Accident]
+3. Mechanical failure in the bus [Road Accident]
+4. Bus driver intentionally caused the accident [Assault]
+5. The pedestrian suddenly appeared in front of the bus, causing the driver to swerve [Road Accident]
+
+Most likely category: ""Road Accident""",RoadAccident
+RoadAccidents/RoadAccidents003_x264.mp4,An outdoor scene. A person on a bike falls off. The person stands up. A second person who had also fallen down stands up. The people walk off.,"1. The person on the bike lost balance and fell off [Road Accident]
+2. The bike's tire suddenly deflated, causing a fall [Road Accident]
+3. The bike crashed into an object that was not visible in the video [Road Accident]
+4. The second person pushed or hit the biker, causing a fall [Fighting/Assault]
+5. The second person was trying to steal the bike and fell while escaping [Stealing]
+
+Most likely category: ""Road Accident""",RoadAccident
+RoadAccidents/RoadAccidents004_x264.mp4,An outdoor scene featuring a traffic intersection. A white car drives into a black car. Both the white car and black car stop. Traffic continues to flow.,"1. Road Accident: The white car failed to see the black car and accidentally collided with it.
+2. Normal: The white car driver was momentarily distracted and accidentally bumped into the black car, causing no major damage.
+3. Assault: The driver of the white car intentionally crashed into the black car as an act of aggression.
+
+After considering these possibilities, the most likely category is:
+
+""Road Accident""",RoadAccident
+RoadAccidents/RoadAccidents005_x264.mp4,A car hits another car which is driving perpendicular to the road markings.,"Possible explanations:
+1. The driver of the car that hit the other car lost control of their vehicle [Road Accident]
+2. The driver of the car that was hit ignored traffic signals and entered the intersection at the wrong time [Road Accident]
+3. One driver was under the influence of drugs or alcohol, impairing their ability to drive safely [Road Accident]
+4. One driver was distracted by a phone or other device and did not see the other car [Road Accident]
+5. The collision was intentional and caused by road rage [Assault]
+
+Most likely category: ""Road Accident""",RoadAccident
+RoadAccidents/RoadAccidents006_x264.mp4,A person gets out of a building and walks towards a car. In the background a white car skids at high speed and hits something. The white car is demolished. People stand around and look at the white car. A person walks up to the white car.,"Possible explanations:
+1. The driver of the white car lost control of the vehicle due to a malfunction or reckless driving, leading to a crash [Road Accident].
+2. The driver of the white car was attempting to escape from law enforcement, resulting in the collision [Arrest].
+3. The white car was involved in a high-speed car chase, possibly related to a robbery or other criminal activity, causing the accident [Robbery].
+4. The driver of the white car was intoxicated or under the influence of drugs, impairing their ability to drive safely and resulting in the crash [Road Accident].
+5. A person who was involved in a fight or altercation nearby got into the white car, attempting to flee the scene, but lost control of the vehicle [Fighting].
+
+Most likely category: ""Road Accident""",RoadAccident
+RoadAccidents/RoadAccidents007_x264.mp4,An outdoor scene at day. Cars move along a road. A blue car hits a white van travelling in the opposite direction. The traffic flow stops. A person gets out of the blue car.,"Possible explanations:
+1. The blue car driver is inexperienced and lost control - [Road Accident]
+2. The blue car driver is under the influence of drugs/alcohol - [Road Accident]
+3. The blue car driver was distracted by something (e.g. phone) - [Road Accident]
+4. The white van made a sudden maneuver, causing the blue car to hit it - [Road Accident]
+5. A mechanical failure in the blue car caused the accident - [Road Accident]
+6. The accident is a result of road rage between the drivers - [Road Accident, Fighting]
+
+The most likely category is ""Road Accident"".",RoadAccident
+RoadAccidents/RoadAccidents008_x264.mp4,A night scene. Car1 skids and hits Car2. Car2 spins around. Person1 is hanging out of the window of Car2. Person2 jumps out of the window of Car2 and carries Person1 away.,"1. Road Accident: Car1 loses control and accidentally hits Car2, causing damage and injuries.
+2. Assault: Car1 intentionally rams Car2 in an act of aggression or road rage.
+3. Robbery: Person1 and Person2 are fleeing from a crime scene, and their vehicle (Car2) is disabled by Car1 (possibly law enforcement).
+4. Normal: Person1 is intoxicated or unwell, causing them to hang out of the window, leading to their involvement in the accident.
+
+Most likely: ""Road Accident""",RoadAccident
+RoadAccidents/RoadAccidents009_x264.mp4,"An outdoor scene at day. A white pickup truck stops at an intersection. People on bikes ride past. A car crashes into the people on bikes. A police car with flashing lights turns and drives towards the car that hit the people on bikes, then stops.","1. The car driver intentionally crashed into the people on bikes [Assault]
+2. The car driver lost control of the vehicle and accidentally hit the people on bikes [Road Accident]
+3. The police car was already chasing the car driver for some crime, who then crashed into the people on bikes while trying to escape [Arrest]
+
+The most likely category is ""Road Accident"".",RoadAccident
+RoadAccidents/RoadAccidents010_x264.mp4,Person1 walks along a footpath. A red bus hits a white car. The white car hits Person1. The red bus and white car stop. Person1 is no longer visible.,"Possible explanations:
+1. Person1 was intentionally hit by the white car (Assault)
+2. The red bus driver lost control and accidentally hit the white car, causing the accident (Road Accident)
+3. The white car driver was not paying attention, leading to the collision (Road Accident)
+4. The red bus and white car were involved in a high-speed chase or street race (Road Accident)
+
+The most likely category is ""Road Accident"".",RoadAccident
+RoadAccidents/RoadAccidents011_x264.mp4,An outdoor scene featuring an intersection. A blue truck hits a car. The blue truck and car stop. The traffic continues to flow. A person walks up to the blue truck.,"Possible explanations:
+1. Road Accident: The blue truck accidentally hit the car at the intersection.
+2. Assault: The blue truck intentionally hit the car as an act of aggression.
+3. Normal: The person walking up to the blue truck is checking on the driver or offering help after witnessing the accident.
+
+Most likely category: ""Road Accident""",RoadAccident
+RoadAccidents/RoadAccidents012_x264.mp4,An outdoor scene featuring an intersection. Car1 is stopped at the intersection while a pedestrian crosses. Car2 drives forward and is hit by Car3. Car3 rolls over and ends up upside down.,"Possible explanations:
+1. Car2 did not see the stop sign and continued forward, causing a road accident. [Road Accident]
+2. Car3 was speeding and couldn't stop in time, hitting Car2. [Road Accident]
+3. Car3 driver was under the influence of alcohol or drugs, impairing their ability to drive safely. [Road Accident]
+4. Car2 or Car3 driver deliberately caused the crash as part of a larger scheme. [Abuse]
+
+The most likely category is ""Road Accident"".",RoadAccident
+Robbery/Robbery001_x264.mp4,"A person in a white helmet is inside a store. A person in plain clothes enters the store and stands behind the counter. A person in a red helmet comes up to the person at the counter. The person in a red helmet is holding a knife and makes a gesture with their hand that suggests they are requesting something. The person at the counter makes a hand gesture, and picks up something long. The person in the white helmet and the person in a red helmet run out of the store. The person at the counter follows them.","1. Robbery: The person in the red helmet is attempting to rob the store and the person at the counter is handing over an object to comply with their demands.
+2. Shoplifting: The person in the red helmet is trying to distract the person at the counter while the person in the white helmet steals something.
+3. Assault: The person in the red helmet is threatening the person at the counter with the knife for another reason, such as personal animosity or a prank.
+
+Most likely, the situation is a ""Robbery"" based on the description of the surveillance video.",Robbery
+Robbery/Robbery002_x264.mp4,"A scene is a shop with a person behind the counter. A person in a black hoodie comes up to the counter with a gun, then puts the gun in their pocket. The person in a black hoodie accepts something over the counter and puts it in a paper bag. The person in a black hoodie walks away.","1. Robbery: The person in the black hoodie is committing a robbery by using a gun to threaten the shopkeeper and taking something from the store.
+2. Normal: The person in the black hoodie is simply a customer buying an item and mistakenly brings out a gun instead of their wallet, realizing their mistake and putting it away before paying with cash.
+
+The most likely category for this scene is ""Robbery"".",Robbery
+Robbery/Robbery003_x264.mp4,Person1 is behind a counter. Person2 points a gun at Person1. Person2 takes a cup from behind the counter. Person2 something. Person1 walks away.,"1. Robbery: Person2 is robbing the place and forces Person1 to give them a cup.
+2. Assault: Person2 is threatening Person1 with a gun just to cause them fear or harm.
+3. Normal: Person2 is a police officer participating in a staged situation for training purposes.
+
+The most likely category is ""Robbery"".",Robbery
+Robbery/Robbery004_x264.mp4,Person1 is behind a counter. Person2 wearing a camouflage jacket with a white mask and gun walks up to the counter. Person1 gives Person2 a black tray. Person2 takes something out of the black tray then leaves.,"Possible explanations:
+1. Person2 is robbing the store [Robbery]
+2. Person2 is an undercover police officer arresting Person1 [Arrest]
+3. Person2 is picking up a prop gun for a theater production [Normal]
+4. Person2 is stealing an item from the tray [Stealing]
+
+Most likely category: ""Robbery""",Robbery
+Robbery/Robbery005_x264.mp4,Person1 is wearing a red top and standing behind a counter. Person2 is wearing a blue hoodie covering most of their face and wearing green gloves. Person2 points something at Person1. Person1 gives Person2 something. Scene change. A black car leaves a car parking lot.,"Possible explanations:
+1. Person2 is threatening Person1 to give them something valuable [Robbery]
+2. Person1 is handing over an item to Person2 who is simply dressed suspiciously [Normal]
+3. Person2 is a disguised police officer arresting Person1 [Arrest]
+
+The most likely category is ""Robbery"".",Robbery
+Robbery/Robbery006_x264.mp4,"Person1 is standing behind a counter. Person2 pushes Person3. Person2 points a gun at Person1 and shoots. Person1 points the gun at Person3. Person1 hits Person2 with a stick. Person2 leaves, then comes back and jumps over the counter. Person1 hits Person2 with a stick. Person2 leaves.","Possible explanations:
+1. Person2 is attempting to rob the store [Robbery]
+2. Person2 is holding Person1 and Person3 hostage during a crime [Arrest]
+3. Person2 is having a personal altercation with Person1 and Person3 [Fighting]
+4. Person2 is trying to hurt Person1 and Person3 as a part of a gang initiation [Assault]
+
+The most likely category is ""Robbery"".",Robbery
+Robbery/Robbery007_x264.mp4,People are sitting at a counter. A person in a brown jumper points a gun at the people behind a counter. The people behind the counter take cash out of the cash register and hand it to the person in a brown jumper. The person in a brown jumper leaves.,"Possible explanations:
+1. ""Normal"": People are acting out a scene for a movie or play.
+2. ""Robbery"": The person in a brown jumper is robbing the people behind the counter.
+3. ""Assault"": The person in the brown jumper is threatening people behind the counter but not actually stealing from them.
+4. ""Shoplifting"": The person in the brown jumper is distracting the people behind the counter while an accomplice shoplifts items.
+
+The most likely category is ""Robbery"".",Robbery
+Robbery/Robbery008_x264.mp4,"Two people in black hoodies are standing at a shop. A person in a white shirt with a black cap is standing at the counter. A person in the black hoodie says something, then the person at the counter moves forward and grabs a person in a black hoodie. A third person in a black hoodie hits the person in the white top with something over the back of the head. A person in a black hoodie points a gun at the person in a white top. A person in a black hoodie uses a cloth to remove a drawer from the cash register.","Possible explanations:
+1. The two people in black hoodies are robbing the store - Robbery
+2. The person in the white top is being assaulted by the people in black hoodies - Assault
+3. The person in the black hoodie is stealing the drawer from the cash register - Stealing
+
+The most likely category given the description is ""Robbery"".",Robbery
+Robbery/Robbery009_x264.mp4,The scene is a shop. A person in the shop is talking with people behind the counter. Two children are also in the shop. Two people wearing black enter the shop. One is holding a black weapon. One of the people in black jumps over the counter and opens the cash register. The people in black take cash out of the cash register. A person in black jumps back over the counter and they leave.,"- Shop owners and customers having a normal conversation [Normal]
+- Children playing inside the shop [Normal]
+- Two people entering the shop to potentially rob it [Robbery]
+- One person holding a weapon to threaten the shop owners [Robbery]
+- One person jumping over the counter to open the cash register [Robbery]
+- Two people taking cash from the cash register [Robbery]
+- The robbers leaving the scene after stealing cash [Robbery]
+
+""Robbery""",Robbery
+Robbery/Robbery010_x264.mp4,"Two people are standing behind a counter looking at computer monitors. One of them is serving a customer. People dressed in black enter the shop, one is holding a weapon and pointing it at people. People behind the counter raise their hands. A person in black opens a bag and a person behind the counter takes something out of a drawer and puts it in the bag. The person in black goes over to the other person behind the counter and the person behind the counter puts something in the bag. The people in black leave.","Possible explanations:
+1. Robbery: People dressed in black enter the shop and force employees to put items in a bag while holding a weapon.
+2. Assault: People dressed in black threaten employees and customers with a weapon.
+3. Normal: The people dressed in black are part of a role-play scenario or training exercise.
+
+Most likely category: ""Robbery""",Robbery
+Robbery/Robbery011_x264.mp4,The scene is a store. A person in a white helmet takes something from behind a counter. Two other people are behind the counter. The person in a white helmet shoves one of the other people behind the counter and reveals a knife. A person in a white shirt walks up to the counter with a stick. The person with a white helmet and person in a white shirt leave the shop.,"1. Robbery: The person in a white helmet might be a robber, stealing from the store and threatening the other person with a knife.
+2. Assault: The person in a white helmet assaulting the person behind the counter with a knife, while taking something from the store.
+3. Shoplifting: The person in a white helmet attempting to shoplift an item from behind the counter, and threatening the other person with a knife when confronted.
+4. Normal: The scene might be a staged or rehearsed event, and not an actual crime.
+
+The most likely category is ""Robbery"".",Robbery
+Robbery/Robbery012_x264.mp4,"A person wearing a red top is behind a counter at a store. A person dressed in black and wearing a white head covering approaches the counter and points a gun at the person behind the counter. The person behind the counter opens the cash register, takes all the cash out, and hands it to the person dressed in black and wearing a white head covering.","Possible explanations:
+1. The person in black is robbing the store [Robbery]
+2. This is a scene from a movie or role play [Normal]
+3. The person in black is a law enforcement officer conducting an undercover operation [Arrest]
+4. The person behind the counter is being coerced into handing over money by threat or blackmail [Abuse]
+
+Most likely category: ""Robbery""",Robbery
+Shooting/Shooting001_x264.mp4,"THe scene is a restaurant or bar. People are sitting on chairs. A person dressed in a white shirt lifts a gun. A spark is visible from the gun. The person lowers the gun, lowers their head, and walks away.","Possible explanations:
+1. Attempted murder - Shooting
+2. Self-defense against aggressor - Assault
+3. Robbery gone wrong - Robbery
+4. Assassination - Shooting
+5. Gang violence - Shooting
+6. Police officer in plain clothes taking action - Arrest
+
+Most likely category: ""Shooting""",Shooting
+Shooting/Shooting002_x264.mp4,Three people are hugging in a car park at night. A fourth person is talking to them. The people begin to disperse. A person lifts a hand in a shooting gesture and smoke leaves near their hand. The person lowers their hand and walks away.,"1. Friends saying goodbye after a gathering [Normal]
+2. An actor practicing a scene from a play [Normal]
+3. A group involved in a crime planning their next move [Abuse, Arson, Assault, Burglary, Fighting, Road Accident, Robbery, Shooting, Shoplifting, Stealing, Vandalism]
+4. A person mimicking a shooting as a joke [Normal]
+5. A person threatening others with a pretend gun [Assault, Abuse]
+
+Considering the information provided, ""Normal"" seems to be the most likely category.",Normal
+Shooting/Shooting003_x264.mp4,People are standing on the footpath near a busy road. There are signs on the footpath with a picture of the Star of David. A person runs along the road towards the people. People near the footpath draw their weapons and shoot at the person running along the road. A person jumps out of the way and ends up lying on the road. The person who was running along the road lies down and crosses their arms. People surround the person lying down who was running along the road. The people carry the person who is lying on the road to the footpath. A ute parks and a person gets out.,"1. Abuse: Unlikely, as a large group of people are involved in the incident.
+2. Arrest: Possible, as people draw their weapons and surround the person lying on the road.
+3. Arson: Unlikely, as there is no indication of fire or fire-related activities.
+4. Assault: Possible, as the person is shot at and eventually captured by the group of people.
+5. Burglary: Unlikely, as there is no indication of any property being broken into.
+6. Explosion: Unlikely, as there is no mention of any explosion in the description.
+7. Fighting: Possible, as people draw their weapons and a conflict between the person and the group occurs.
+8. Road Accident: Unlikely, as the events primarily happen on the footpath.
+9. Robbery: Unlikely, as there is no mention of any property being stolen.
+10. Shooting: Possible, as people draw their weapons and shoot at the person.
+11. Shoplifting: Unlikely, as there is no mention of any shops or stealing.
+12. Stealing: Unlikely, as there is no mention of any property being stolen.
+13. Vandalism: Unlikely, as there is no mention of any property being damaged.
+14. Normal: Unlikely, as the described events involve conflict and weapons.
+
+Most likely category: ""Arrest""",Arrest
+Shooting/Shooting004_x264.mp4,The scene is a car parking lot with a vehicle. A person in a uniform is holding a gun in the ready-to-shoot position. Another person approaches the person in a uniform and makes a punching gesture. The person in a uniform shoots the gun. The other person is lying on the ground and struggling.,"1. The person in uniform is a police officer arresting the other person - [Arrest]
+2. The person in uniform is a security officer engaging the person for trespassing or theft - [Arrest]
+3. The person in uniform is an off-duty law enforcement officer or security guard who is responding to a potential threat - [Assault]
+4. The person in uniform is engaging in an abuse of power by shooting someone without proper cause - [Abuse]
+5. The person in the parking lot is attempting to fight the person in uniform, resulting in the shooting - [Fighting]
+
+The most likely category in this scenario is ""Assault"".",Assault
+Shooting/Shooting005_x264.mp4,"The scene is an alley at night. A person in a police uniform leaves a building and raises their hands in a ready-to-shoot gesture. The person in a police uniform flashes their torch and notices something or someone lying at the door to the building. Additional people in police uniforms with guns come up to the area. One of the people in police uniforms enters the building. Another one of the people in police uniforms leaves then comes back. One of the people in police uniforms enters the building, while another flashes their torch around the scene to examine the thing or person lying on the doorstep.","Possible explanations:
+1. Police officers responding to a burglary in progress (Burglary)
+2. Police officers arriving at the scene of an assault (Assault)
+3. Police officers investigating a potential arson (Arson)
+4. Police officers discovering a person who has been shot (Shooting)
+5. Police officers arresting a suspect (Arrest)
+6. Police officers conducting a search for a missing person (Normal)
+
+Based on the description of the scene, it seems most likely that the category would be:
+
+""Assault""",Assault
+Shooting/Shooting006_x264.mp4,"The scene is a store at night. Two people are behind the counter. A person in a white top comes up to the counter. A person behind the counter provides what appears to be a long roll of bread and leaves it on the counter. The person in a white top walks off then comes back. A second person walks through the store. The person in a white top draws a gun from under their shirt. The person in a white top talks to a person behind the counter. The person behind the counter opens the cash register, takes out cash, and gives it to the person in a white top. Two people wearing uniforms and black vests enter.  A person behind the counter gives something to the person in a white top. The person in a white top holds up their arm in a shooting gesture. People duck. The person in a white top approaches one of the people ducking. A person runs off. The flash of a gunshot from the person in a white top is visible. The person shot at is lying on the floor. The person in a white top leaves. The person behind the counter runs to the door then makes a phone call. The person behind the counter seems distressed.","1. Robbery - The person in a white top demands money from the cashier and receives it.
+2. Assault - The person in a white top threatens and approaches a ducking individual.
+3. Shooting - A visible gunshot flash is seen, and a person is lying on the floor.
+
+The most likely category is ""Robbery"".",Robbery
+Shooting/Shooting007_x264.mp4,An outdoor scene. A person in a blue top raises a gun in a ready-to-shoot gesture. A person runs towards the person in the blue top. The person in a blue top backs away. Another person with a gun runs in the direction of the other two people. Scene change. Four people are walking. The person at the back raises a weapon at a person wearing a black top. Scene change. A person in a blue top follows a person in a black top. Another person in a black top emerges behind a fence.,"1. Arrest: The person in the blue top could be a police officer attempting to apprehend a suspect.
+2. Assault: The person in the blue top could be attempting to threaten or harm the other individuals with their weapon.
+3. Fighting: The individuals in the video could be engaged in a dispute that has escalated into physical violence.
+4. Robbery: The person in the blue top could be attempting to steal from or threaten the other individuals.
+5. Shooting: The person in the blue top could be aiming to shoot at someone in the scene.
+6. Normal: The scene could be from a movie or TV show being filmed, and the actions are part of the script.
+
+The most likely category is ""Assault"".",Assault
+Shooting/Shooting008_x264.mp4,"A person in a uniform is near an open door. Near them is a black container filled with green rectangles. A person runs into a metal barrier and falls over, knocking over the person in a uniform. The person in a uniform shoots their gun twice while lying on the floor, then moves towards the direction of the person that ran into the barrier.  A person with a weapon dressed in casual clothing takes the black container.","1. Abuse - The person in uniform might be trying to protect themselves from the person running into the barrier.
+2. Arrest - The person in uniform could be trying to arrest the person who ran into the barrier or the person who took the container.
+3. Arson - Not applicable as there is no fire or related damage in the description.
+4. Assault - The person running into the barrier might be assaulting the person in uniform.
+5. Burglary - The person taking the black container might be stealing it.
+6. Explosion - Not applicable as there is no explosion or related damage in the description.
+7. Fighting - The person in uniform might be trying to defend themselves or fight against the other people involved.
+8. Road Accident - Not applicable as there is no vehicle or road accident mentioned in the description.
+9. Robbery - The person taking the black container might be robbing it from the person in uniform.
+10. Shooting - The person in uniform fired a weapon, which could pose a threat to others.
+11. Shoplifting - Not applicable as the scene doesn't take place in a store or involve taking items from a store.
+12. Stealing - The person in casual clothing taking the black container could be stealing it.
+13. Vandalism - Not applicable as there is no property damage in the description.
+14. Normal - Not applicable as there are criminal activities suggested in the description.
+
+The most likely category is ""Robbery"".",Robbery
+Shooting/Shooting009_x264.mp4,"An indoor scene with an ATM. Person3 is lying on the floor. What appears to be a bullet hole is visible in the door. Person1 kicks at the door, and enters. Person1 adjusts their clothing. Person1 kicks an ATM. Person2 holds open the door. Person1 punches an ATM. Person3 sits up in the corner of the room. Person1 takes a drink then spits it on the floor. Person1 hits an ATM with a bottle. Person2 leads Person1 out the door. Person2 talks to Person3. The glass door shatters due to a force from the outside. A rock is lying on the ground. Person3 stands up and leaves through the door.","Possible explanations:
+1. Person1 and Person2 are attempting to break into the ATM to steal money [Burglary].
+2. Person1 and Person2 are vandalizing the property for fun or out of anger [Vandalism].
+3. Person3 was assaulted by Person1 or Person2 and is now trying to recover [Assault].
+4. The bullet hole in the door suggests that there may have been a shooting incident prior to the surveillance video [Shooting].
+5. Person1's aggressive actions (kicking the door, punching the ATM) are a form of physical assault [Assault].
+
+Most likely category: ""Vandalism""",Vandalism
+Shooting/Shooting010_x264.mp4,"An outdoor scene. A car is parked. A person in a jacket walks up to the car, then changes direction and uses a key on the entrance to a building. The person in a jacket walks back to the car and gets in. Another person approaches the car and attempts to reach in while holding something. The person gets pushed back and falls on the ground. The person in a jacket holds a gun out the window and points it at the person on the ground. The person on the ground is motionless. The person in a jacket gets out of the car and slowly approaches the person lying on the ground.","Possible explanations:
+1. The person in a jacket is defending themselves from a robbery attempt - [Robbery]
+2. The person in a jacket is an undercover police officer arresting a suspect - [Arrest]
+3. The person in a jacket is assaulting the person on the ground - [Assault]
+4. The two individuals are involved in a fight that escalated to gun violence - [Fighting]
+5. The person in a jacket is a car thief being confronted by the car owner - [Stealing]
+
+Based on the description, the most likely category is ""Robbery"".",Robbery
+Shooting/Shooting011_x264.mp4,The scene is inside a shop at night. Three people are at the counter. Two people in motorcycle helmets approach and one is holding a gun.  The people behind a counter provide cash to one of the people in a motorcycle helmet. The glass door to the shop shatters and the people in motorcycle helmets fall to the ground. One of the people in a motorcycle helmet is lying in a pool of blood. People in police uniforms enter holding weapons.,"Possible explanations:
+1. Robbery and shooting: The two people in motorcycle helmets attempt to rob the store at gunpoint, but the police arrive on the scene and shoot one of the robbers, causing the pool of blood. [Robbery, Shooting]
+2. Burglary gone wrong: The people in motorcycle helmets are shoplifters, but their plan goes awry when they are confronted by armed police. [Burglary, Shooting]
+3. Arrest and assault: The people in motorcycle helmets are not robbers but undercover police officers who have come to arrest the people behind the counter. Confusion ensues, leading to an altercation and injury. [Arrest, Assault]
+
+Based on the surveillance video description, the most likely category is ""Robbery"".",Robbery
+Shooting/Shooting012_x264.mp4,The scene is outside of a house with a gate around the area. Two people put something in the rear of a van. A white car parks nearby and three people in masks come running out. Everyone walks towards the house. Some of the people in masks appear to have guns. The white car drives off. Three people in masks run out of the house towards the white car. A person in underwear comes out of the house holding a gun and points it at the car that is driving off. The gate closes.,"Possible explanations:
+1. The people in masks are committing a burglary, taking items from the house and loading them into the white car [Burglary].
+2. The people in masks are involved in a robbery, using the guns to threaten the house occupants and taking their belongings [Robbery].
+3. The person in underwear is part of an elaborate prank, responding to the scenario with a (possibly fake) gun and a dramatic reaction [Normal].
+4. The masked individuals are apprehending someone, with the person in underwear reacting in self-defense [Arrest].
+5. The people in masks are involved in an assault, using the guns to intimidate or harm the occupants of the house [Assault].
+
+Considering the presence of guns and the person in underwear coming out of the house, burglary or robbery seem more likely than a prank or arrest with no clear indication of law enforcement involvement. Out of the two, robbery is more probable due to the presence of weapons and the seemingly targeted nature of the event.
+
+""Robbery""",Robbery
+Shoplifting/Shoplifting001_x264.mp4,The scene is a store. Person1 and Person2 walk through the store. Person1 examines a laptop. Person2 takes a laptop and puts it under their shirt. Person 1 takes a laptop and places it under their shirt. Person1 and Person2 slowly leave the store. Person3 walks around the store.,"Possible explanations:
+1. Person1 and Person2 are stealing laptops from the store [Shoplifting]
+2. Person1 and Person2 are hiding laptops from someone in the store [Normal]
+3. Person3 is observing Person1 and Person2's actions and preparing to confront them [Arrest]
+
+The most likely category is ""Shoplifting"".",Shoplifting
+Shoplifting/Shoplifting003_x264.mp4,"The scene is a store with a counter. A fan is blowing. People are at the counter, while others wait. Two people move behind the counter and one reaches down to get something under the counter. A person sits on a chair and waits. The person turns around in their chair and talks to someone else in a chair. A person leaves from behind the counter and exits the store with something. Another person enters the store, wearing a backpack. The person with a backpack talks to a person at the counter. One of the people who is sitting in a chair reaches their hand near one of the desks and pulls something out towards their lap. The people who were waiting in chairs get up and leave the store.","1. Abuse: A person pulling something from the desk towards their lap could be concealing a weapon to harm someone.
+2. Arrest: The person with a backpack entering the store could be a law enforcement officer looking to apprehend someone.
+3. Arson: There is no evidence of fire or arson-related activities in the video.
+4. Assault: There is no physical altercation between any individuals in the video.
+5. Burglary: There is no clear indication of any illegal entry or theft from the store.
+6. Explosion: There is no explosion or related activities in the video.
+7. Fighting: There are no signs of fighting or heated arguments between the individuals in the video.
+8. Road Accident: There is no road or vehicle accident involved in the video.
+9. Robbery: There is no forcible theft, threat, or use of a weapon by any individual in the video.
+10. Shooting: There are no shooting-related activities or weapons visible in the video.
+11. Shoplifting: The person reaching their hand near the desk and pulling something out could be shoplifting.
+12. Stealing: The person who exits the store with something could be stealing an item from the store.
+13. Vandalism: There is no destruction of property or vandalism involved in the video.
+14. Normal: The activities in the store appear to be regular customer interactions and conversations with store staff.
+
+Most likely category: ""Normal""",Normal
+Shoplifting/Shoplifting004_x264.mp4,"Two people behind a counter are talking to people on the other side. A person at the counter hands cash over to someone else at the counter. A person examines items sitting on the counter. A person behind the counter hands cash to someone else sitting at the counter. A person hands cash to someone at the counter, who hands it to another person at the counter, who places it in a drawer. The person at the counter counts the money. A person leaves. Another person leaves. A person enters.","Possible explanations:
+1. Exchange of goods and payment - Normal
+2. Giving change to a customer - Normal
+3. Sharing cash between employees for work transactions - Normal
+4. Splitting bills among friends - Normal
+5. Employee stealing cash - Stealing
+6. Transaction involving illegal goods - Abuse
+
+The most likely category is ""Normal"".",Normal
+Shoplifting/Shoplifting005_x264.mp4,Person1 and Person2 enter a store. Scene change. Person1 is looking at items in a display case. Person2 places an item in the jacket of Person1. Scene change. Person1 and Person2 leave.,"1. Person2 is helping Person1 shoplift by hiding an item in their jacket. [Shoplifting]
+2. Person1 is unaware of Person2's actions, and Person2 is trying to frame them for theft. [Framing]
+3. Person2 is mistakenly placing the item in Person1's jacket instead of their own. [Accident]
+4. Person1 and Person2 are attempting a prank or social experiment where they place an item in the other's jacket without their knowledge. [Prank]
+
+The most likely category is ""Shoplifting"".",Shoplifting
+Shoplifting/Shoplifting006_x264.mp4,A person is drinking water from a bottle. A person behind a counter hands Person1 something. The person who was drinking from a bottle sits down. Person1 puts the thing around their neck. Four people enter. Person1 takes the thing off their neck and runs away.,"Possible Explanations:
+1. Person1 is shoplifting and flees when caught [Shoplifting].
+2. Person1 is being chased by the four people who entered [Assault].
+3. Person1 is stealing the thing around their neck and runs when the four people enter [Stealing].
+4. Person1 realizes the thing around their neck is valuable and the four people are coming to rob it from them [Robbery].
+5. The thing is a protective item and Person1 needs to run as the four people are dangerous [Normal].
+
+Most likely category: ""Stealing"".",Stealing
+Shoplifting/Shoplifting007_x264.mp4,The scene is a shop. Person1 is dressed in green. Person1 talks with Person2 and Person3. Person1 goes into a backroom area in the shop. Person2 and Person3 take clothes off a shelf. Person3 puts the clothes in a bag. Person2 and Person3 sit down. Person3 walks away. Person1 comes out of the backroom with clothes. Person3 comes back. Person1 hands Person2 an item of clothing. Person2 examines the clothing then puts it back. Person2 picks up a different item of clothing. Person3 takes clothes off a shelf and puts them in a bag.,"1. Person1 is helping Person2 and Person3 choose clothes [Normal]
+2. Person1 is a staff member, and Person2 and Person3 are customers picking out items to purchase [Normal]
+3. Person2 and Person3 are shoplifting by putting items into a bag without paying for them [Shoplifting]
+4. Person1 is involved in a theft ring and is assisting Person2 and Person3 in stealing clothes [Stealing]
+
+The most likely category is ""Normal"".",Normal
+Shoplifting/Shoplifting008_x264.mp4,The scene is a person behind a desk talking to four people. A person stands at the door. The person behind the desk leaves. The person standing at the door reaches over a computer monitor and takes something off the desk. The person standing at the door reaches over a computer monitor and takes another thing off the desk. The person standing at the door leaves.,"1. The person standing at the door is stealing items from the desk (Stealing).
+2. The person standing at the door is taking items that belong to him/her (Normal).
+3. The person standing at the door is borrowing items with permission (Normal).
+4. The person standing at the door is hiding items as a prank (Normal).
+
+""Normal""",Normal
+Shoplifting/Shoplifting009_x264.mp4,"The scene is a shop. A person behind the counter is serving four people. One of the people being served takes a yellow shopping bag off the counter, checks their phone, shows/hands it to the person behind the counter, then leaves. A person being served grabs an item from the shelf behind the counter, puts it behind their back, then leaves.","1. The person taking the yellow shopping bag could have already paid for their items and was simply showing the cashier a text or photo on their phone. [Normal]
+2. The person taking the yellow shopping bag might be showing their phone to the person behind the counter to confirm an order or discount code. [Normal]
+3. The person grabbing an item from the shelf behind the counter could be a staff member restocking the shelf or taking the item for another customer. [Normal]
+4. The person grabbing an item from the shelf behind the counter might be trying to steal it, hiding it behind their back as they exit the shop. [Shoplifting]
+
+Out of these possible explanations, the most likely category is ""Normal"" as it constitutes three out of four scenarios. However, there is still a ""Shoplifting"" possibility, and this surveillance video should be monitored further or investigated.
+
+""Normal""",Normal
+Shoplifting/Shoplifting010_x264.mp4,The scene is a shop with various food products. Person1 takes a can off the shelf. Person2 is carrying a purple school bag. Person2 puts an item in the purple school bag.,"1. Person1 is shopping for groceries [Normal]
+2. Person2 is a student carrying their school bag in the shop [Normal]
+3. Person2 is shoplifting by putting items in their school bag [Shoplifting]
+
+The most likely category is ""Shoplifting"".",Shoplifting
+Shoplifting/Shoplifting012_x264.mp4,The scene is an empty cafe/restaurant. Person1 enters and takes a seat. Person2 is behind the counter and wipes down the table. Person3 enters then leaves. Person4 is also behind the counter. Person2 places a cloth over the table. Person2 places another cloth over the table. Person2 and Person4 place various cloths on the table. Person1 takes a cloth off the table and puts it in a handbag. Person1 rearranges the cloths. Person2 opens one of the cloths and shows it to Person1. Person5 enters and hands Person4 a piece of paper. Person1 leaves. Person2 counts the cloths then makes a phone call.,"1. Person1 is meeting Person2 to purchase cloths [Normal]
+2. Person1 is receiving stolen cloths from Person2 [Stealing]
+3. Person1 is collecting cloths as evidence in an investigation [Arrest]
+4. Person1 is secretly taking the cloths without paying [Shoplifting]
+5. Person5 is handing Person4 information related to a crime [Arrest]
+
+The most likely category is ""Normal.""",Normal
+Shoplifting/Shoplifting013_x264.mp4,The scene is the inside of a clothing shop. Three people put clothes in bags. The three people leave.,"Possible explanations:
+1. Thieves stealing clothes and leaving the shop. [Shoplifting]
+2. Customers packing their purchased items before leaving. [Normal]
+3. Employees packing clothes for restocking shelves. [Normal]
+
+Most likely category: ""Normal""",Normal
+Shoplifting/Shoplifting014_x264.mp4,"The scene is the inside of a clothing shop. Three people examine clothes. Person1 is wearing a striped shirt and points out clothes to Person2. Person3 is carrying a baby. Person3 reaches down to pick up an item of clothing. Person3 places their hand under the blanket their baby is wrapped in, and adjusts the blanket. Person1 continues examining clothing. Person2 picks up a pile of clothing, passes the clothes to Person3. Person3 places the clothes under the blanket the baby is wrapped in, and adjusts the blanket. Person1 rearranges clothing.","1. Person1 is helping Person2 choose clothes to buy [Normal]
+2. Person3 is adjusting the blanket to make the baby comfortable [Normal]
+3. Person2 is handing clothes to Person3 for their opinion [Normal]
+4. Person1 is rearranging clothes to make the display neater [Normal]
+5. Person3 is hiding clothes under the baby's blanket to shoplift [Shoplifting]
+
+Most likely category: ""Shoplifting""",Shoplifting
+Stealing/Stealing002_x264.mp4,"A white car approaches a silver car. Two people come out. One of them goes near the front wheel of the car. The other then opens the bonnet. After 30 seconds, the two people return to the white car.","Possible explanations:
+1. The two people are helping the driver of the silver car with a mechanical issue [Normal]
+2. The two people are attempting to steal parts from the silver car [Stealing]
+3. The two people are tampering with the silver car to cause harm [Vandalism]
+4. The two people are involved in a car theft [Robbery]
+
+Most likely category: ""Normal""",Normal
+Stealing/Stealing003_x264.mp4,"The scene is a vehicle parking lot. A person enters a black car. After 75 seconds, the black car reverses and leaves the parking lot. A pedestrian runs after the black car then walks around in a confused/surprised manner.","1. The person entering the black car is the owner, and they are simply leaving the parking lot [Normal].
+2. The pedestrian was expecting a ride from the person in the black car, but the driver left without them [Normal].
+3. The person entering the black car is stealing the vehicle, and the pedestrian is attempting to stop them [Stealing].
+4. The pedestrian left something in the black car and is trying to retrieve it before the driver leaves [Normal].
+5. The black car is involved in a hit and run, and the pedestrian is trying to get the driver's attention to stop them [Road Accident].
+6. The person entering the black car is a suspect in a crime, and the pedestrian is an undercover police officer attempting to arrest them [Arrest].
+
+The most likely category is ""Normal"".",Normal
+Stealing/Stealing004_x264.mp4,"Person1 is riding a black motorcycle and enters an area through a gate. Person1 is no longer on the motorcycle, and walks further into the area. Person2 and Person3 walk through the gate into the area, leave, then come back into the area. Person2 leaves then re-enters the area. Person3 is holding a black motorcycle that looks identical to the one that Person1 was riding. Person3 pushes the motorcycle through the gate and out of the area with the help of Person2.","1. Person1 parked the motorcycle and went inside for a meeting [Normal]
+2. Person2 and Person3 are stealing Person1's motorcycle [Stealing]
+3. Person2 and Person3 are moving the motorcycle for a prank [Vandalism]
+4. Person2 and Person3 are taking the motorcycle for maintenance [Normal]
+5. Person1 asked Person2 and Person3 to move the motorcycle to a different spot [Normal]
+
+The most likely category is ""Normal"".",Normal
+Stealing/Stealing006_x264.mp4,"An outdoor scene with a busy road. A motorcycle is parked on the footpath. Person1 and Person2 arrive on a motorcycle. Person1 gets off the motorcycle they were on and stands near the motorcycle that is parked on the footpath. Person1 kneels down near the motorcycle to tie their shoelace. Person1 touches something near the front of the motorcycle, and screws or unscrews something. Person1 uses their foot to straighten the handlebars of the motorcycle. Person1 rides off on the motorcycle that was parked, and Person2 rides off on the motorcycle they were originally on.","Possible explanations:
+1. Person1 is adjusting a friend's motorcycle that was left in a bad position (Normal).
+2. Person1 is tampering with someone's motorcycle to steal it (Stealing).
+3. Person1 is carefully planning to vandalize the motorcycle but ultimately decides against it (Vandalism).
+4. Person1 is checking the motorcycle for damage after accidentally hitting it with their own (Road Accident).
+5. Person1 is placing something illicit on the motorcycle (Abuse).
+
+The most likely category is ""Stealing"".
+",__invalid__
+Stealing/Stealing007_x264.mp4,"An outdoor scene with four parked motorcycles. Person1 and Person2 arrive on a motorcycle and park. Person2 gets off the motorcycle. Person3 gets on a motorcycle and rides away. Person1 rides the motorcycle they arrived on away. Person2 spends 3 seconds turning or adjusting something on a parked motorcycle, then rides the motorcycle away.","1. Person1 and Person2 are friends who parked their motorcycles to arrange them [Normal]
+2. Person2 is adjusting or fixing something on a parked motorcycle with permission from the owner [Normal]
+3. Person2 is stealing a parked motorcycle after others have left [Stealing]
+4. Person2 is vandalizing a parked motorcycle [Vandalism]
+
+""Normal""",Normal
+Stealing/Stealing008_x264.mp4,"The scene is a mostly empty car parking lot. A van reverses into the area. A person wearing black gets out of the van, checks something, then runs back into the van. Two people dressed in black get out of the van and open the van back doors. The van reverses near two parked motorcycles. Three people dressed in black lift the motorcycle into the back of the van. The three people lift a second motorcycle into the back of the van. The people dressed in black close the van doors, get into the van, then the van drives away.","Possible explanations:
+1. Theft of motorcycles (Stealing)
+2. Repossessing motorcycles (Normal)
+3. Staging a fake theft for insurance fraud (Abuse)
+
+Determining the most likely category:
+1. The individuals were dressed in black and acted quickly, suggesting a secretive and potentially illegal activity.
+2. They targeted motorcycles specifically, indicating a focus on stealing rather than a random act of vandalism or robbery.
+
+The most likely category is ""Stealing"".",Stealing
+Stealing/Stealing009_x264.mp4,"An outdoor scene. A person walks into an area through a gate. The person gets onto a black motorcycle parked in the area and adjusts something near the handlebars for 20 seconds. The person gets off the motorcycle, turns the motorcycle around, kick starts the motorcycle, then rides it away out the gate.","Possible explanations:
+1. The person is the owner of the motorcycle and is adjusting something before leaving. [Normal]
+2. The person is stealing the motorcycle after adjusting something on it. [Stealing]
+3. The person is a mechanic conducting a test drive after fixing something on the motorcycle. [Normal]
+4. The person is vandalizing the motorcycle by tampering with the handlebars. [Vandalism]
+
+The most likely category is ""Normal"".",Normal
+Stealing/Stealing010_x264.mp4,"The scene is a footpath near a road. There is a white parked car and two parked motorcycles near the footpath. Pedestrians walk along the footpath and cars travel along the street. Person1 walks along the footpath and flicks something, after which the back window of the white car is broken. Person1 walks back past the car and pushes the broken glass window. Person1 turns around, walks up to the car, pushes the broken glass window, reaches through the window, takes out a bag, and leaves.","1. Abuse [Abuse]
+2. Glass accidentally breaking without any act from Person1 [Normal]
+3. Person1 deliberately breaking the glass due to personal issues with the car owner [Vandalism]
+4. Person1 attempting to steal the bag by breaking the window [Burglary]
+5. Person1 attempting to take back their own bag from the car [Normal]
+
+The most likely category is ""Burglary"".",Burglary
+Stealing/Stealing011_x264.mp4,"The scene is a walkway with two parked motorcycles. A person stands near a motorcycle and looks around. The person looks at the handlebars of the motorcycle and adjusts something for 30 seconds. The person gets on the motorcycle, turns it around, then rides off, using their feet to get the motorcycle moving.","Possible explanations:
+1. The person is adjusting their own motorcycle before riding it away [Normal].
+2. The person is tampering with someone else's motorcycle, possibly stealing it [Stealing].
+3. The person is attempting to disable or damage the motorcycle of someone they have a dispute with [Vandalism].
+
+Most likely category: ""Normal""",Normal
+Stealing/Stealing012_x264.mp4,"The scene is a walkway with two parked black motorcycles. A person on a white motorcycle parks their white motorcycle. The person walks away, then walks back and picks up a black helmet from one of the parked black motorcycles. The person gets on the white motorcycle and drives away.","Possible explanations:
+1. The person accidentally took the wrong helmet, thinking it was theirs. [Normal]
+2. The person intentionally stole the helmet from the parked black motorcycle. [Stealing]
+3. The person is returning the helmet to its owner who is further down the road, and will bring back their own helmet. [Normal]
+
+The most likely category is ""Normal"".",Normal
+Stealing/Stealing013_x264.mp4,"The scene is a motorcycle in a small fenced off area at night. A person in a motorcycle helmet walks near the outside of the fence. The person in a motorcycle helmet stands near the fence doing something. The fence door opens. The person in a motorcycle helmet and a second person walk into the area. The person in a motorcycle helmet is carrying a gun. The other person does something to the motorcycle, then wheels the motorcycle backward out through the fence door. Both people leave and close the fence door behind them.","Possible Explanations:
+1. The person in the motorcycle helmet is attempting to steal the motorcycle. (Stealing)
+2. Both people are the owners or have permission to access the motorcycle, and are in the process of moving it to a different location. (Normal)
+3. The person in the motorcycle helmet intends to use the gun to pressure the other person into helping them steal the motorcycle. (Robbery)
+4. The person in the motorcycle helmet is a law enforcement officer attempting to retrieve a confiscated motorcycle. (Arrest)
+
+Most Likely Category: ""Stealing""",Stealing
+Stealing/Stealing014_x264.mp4,"The scene is a small area behind an open gate. A white van and red motorcycle are parked in the area. A person enters and begins unscrewing something on the motorcycle. The person leaves wit the thing they unscrewed, re-enters, then screws the thing back. The motorcycle light turns on. The person wheels the motorcycle out the fence door and onto the road.","1. Stealing: The person is trying to steal the motorcycle by unscrewing a part and then attempting to start it.
+2. Vandalism: The person is attempting to damage the motorcycle by removing or tampering with a part.
+3. Normal: The person is the owner of the motorcycle and is fixing or adjusting a part.
+
+Based on the description provided, it seems that the person is trying to steal the motorcycle, since they unscrewed something and then successfully started the motorcycle before wheeling it out onto the road. Therefore, the most likely category is ""Stealing"".",Stealing
+Vandalism/Vandalism001_x264.mp4,"A person uses a circular cutting saw or grinder against a vertical metal pole, causing sparks. A second person in a hoodie pushes against the pole.","1. Cutting the pole for maintenance purposes [Normal]
+2. Removing the pole for replacement [Normal]
+3. Attempting to topple the pole for a prank [Vandalism]
+4. Dismantling the pole to steal metal [Stealing]
+5. Disabling a security camera on the pole [Burglary]
+
+The most likely category is ""Normal"".",Normal
+Vandalism/Vandalism002_x264.mp4,An outdoor scene on a concrete area at night. A person in a hood throws something that looks like paper at something. The person tries multiple times. A second person in a hood is carrying a bat and picks up the thing and throws it too.,"Possible explanations:
+1. The person in the hood is trying to hit a target with the paper, but failing [Normal]
+2. The two people are throwing flammable papers in an attempt to start a fire [Arson]
+3. They are practicing for a fight or sport, using the paper as a target [Normal]
+4. The persons are vandalizing the area by littering and damaging objects [Vandalism]
+
+The most likely category is ""Vandalism"".",Vandalism
+Vandalism/Vandalism003_x264.mp4,An outdoor scene featuring a road with a corner in a suburban area. Cars drive past. Two children walk along the pavement and stand near a pair of parked motorcycles. One of the children pushes a motorcycle over. The two children run away.,"1. Children playing a prank [Vandalism]
+2. Children accidentally pushing the motorcycle while trying to sit on it [Normal]
+3. Children damaging the motorcycle intentionally [Vandalism]
+4. Children attempting to steal the motorcycle but failing [Stealing]
+
+The most likely category is ""Vandalism"".",Vandalism
+Vandalism/Vandalism004_x264.mp4,"A road at night. A light is surrounded by a fence in the middle of the road with a blue sign. A black car crashes into one side of the fence, damaging the fence. The car reverses, drives around it in a circle, then crashes into another side of the fence. The car drives around then crashes into a third side of the fence. The car reverses and drives away.","1. Intoxicated driver (Road Accident)
+2. Driver experiencing a medical emergency (Road Accident)
+3. Joyriding/Reckless driving (Road Accident)
+4. Driver intentionally damaging the fence (Vandalism)
+5. Driver lost control of the vehicle (Road Accident)
+6. Malfunctioning vehicle (Road Accident)
+
+Most likely category: ""Road Accident""",RoadAccident
+Vandalism/Vandalism005_x264.mp4,The scene features a car parked at night. A person in white scrapes something along a car. A person touches the bonnet of a car behind it. The person walks away.,"1. The person in white is keying the car, causing damage [Vandalism]
+2. The person is wiping off some dirt from the car while passing by [Normal]
+3. The person is leaving a note tucked in the car, possibly for the owner [Normal]
+
+The most likely category is ""Vandalism"" as the action of scraping something along the car might imply it's being keyed or damaged intentionally.",Vandalism
+Vandalism/Vandalism006_x264.mp4,A night scene. A person repetitively hits a door with a bag. Gas or smoke is visible near where the person was hitting the door. The person is holding something that looks like a fire extinguisher as well as the bag. The person kicks the door.,"Possible explanations:
+1. Attempting to break into the location (Burglary)
+2. Trying to cause damage or destruction to the property (Vandalism)
+3. Attempting to start a fire or cause an explosion (Arson)
+
+Considering the presence of gas or smoke and the person holding a fire extinguisher-like object, the most likely category is ""Arson"".",Arson
+Vandalism/Vandalism007_x264.mp4,An outdoor scene at night. A person kicks a parked vehicle. Scene change. A person does something to the front of a black vehicle. The person runs past the vehicles.,"Possible explanations:
+1. The person is intentionally damaging the parked vehicle [Vandalism]
+2. The person is trying to steal parts from the vehicles [Stealing]
+3. The person is engaged in a fight and their actions are a result of their anger [Fighting]
+4. The person is performing a prank or joke on the vehicle owner [Normal]
+
+Most likely category: ""Vandalism""",Vandalism
+Vandalism/Vandalism008_x264.mp4,A store at day. People are outside the store on the footpath. A person sits down outside the store. A person is behind the counter at the store. A person enters the store carrying something. Another person enters the store and hits something with a bat. A person outside the store hits a window with a hammer causing broken glass then hits another window with a hammer causing broken glass. The person in the store hits shelves with a bat causing items to fall on the floor. The person behind the counter makes a phone call. People enter the store. People leave the store. A group of children discuss something outside the store. The person who was behind the counter discusses something with the children outside the store.,"1. Abuse - people outside store mistreating the person sitting outside the store
+2. Arrest - police arresting people causing the ruckus in the store
+3. Arson - no arson observed in the video
+4. Assault - people assaulting the store with a bat and hammer
+5. Burglary - attempted theft from the store
+6. Explosion - no explosion observed in the video
+7. Fighting - people fighting in and around the store
+8. Road Accident - no road accident observed in the video
+9. Robbery - people trying to rob the store
+10. Shooting - no shooting observed in the video
+11. Shoplifting - people stealing items from the store
+12. Stealing - no stealing observed outside the store
+13. Vandalism - people vandalizing the store with a bat and hammer
+14. Normal - person behind the counter on phone appears normal
+
+The most likely category is ""Vandalism"".",Vandalism
+Vandalism/Vandalism009_x264.mp4,An carpark at night. Person1 and Person2 are wearing trousers and no top. Person1 kicks something. Person2 punches something in the same area. Person1 and Person2 walk away.,"1. Person1 and Person2 were fighting: Fighting
+2. Person1 and Person2 were vandalizing something: Vandalism
+3. Person1 and Person2 were attempting to break into a car: Burglary
+4. Person1 and Person2 were trying to destroy evidence: Destruction of evidence
+5. Person1 and Person2 were exercising/practicing martial arts moves: Normal
+
+Since they both kicked and punched something in the same area and then walked away, the most likely category is ""Vandalism"".",Vandalism
+Vandalism/Vandalism010_x264.mp4,"The scene is the inside of a store that sells canned items. Two people are behind the counter serving customers. A customer in a green jumper discusses something with a person behind the counter, points at another customer, then points at the person behind the counter. Another two people enter. The customer in a green jumper shakes their head then punches or pushes the person behind the counter in the head using an open hand. The person in a green jumper pushes a machine off the counter. The customer in a green jumper throws a banana at the other person behind the counter.","Possible explanations:
+1. The customer in the green jumper believes they were given the wrong item or charged incorrectly [Normal].
+2. The person behind the counter made a disrespectful comment towards the customer in the green jumper [Assault].
+3. The customer in the green jumper is attempting to steal and is using violence as a distraction [Stealing].
+4. The customer believes the person behind the counter stole something from them [Fighting].
+5. The customer in the green jumper is a vandal looking to cause damage for no reason [Vandalism].
+
+Based on the surveillance video description, the most likely category is ""Assault"".",Assault
+Vandalism/Vandalism011_x264.mp4,"The scene is an empty road at night. A group of three people walk along the footpath. One of the people pushes over bins then walks to the other side of the road. The person pushes over another two bins. A person picks up something, swings it around and throws it. Other people in the group kick over bins. A white van comes up and stops. People in police uniforms get out of the van and approach the people who were kicking bins. A person walks along the road up to the van then walks away. A person in a police uniform discusses something with the people kicking bins. A person who was kicking bins starts putting the bins back upright. The person puts things back in the bins.","Possible explanations:
+1. A group of people is committing vandalism by pushing over bins and throwing items (Vandalism).
+2. Police arrive to stop the group from causing further damage and instruct them to clean up the mess, but do not arrest them (Normal). 
+
+The most likely category is ""Vandalism"" since the group was actively kicking over bins and causing disruption, but police intervention prevented further damage and potentially led to a more normal situation. However, the primary action is still Vandalism.
+
+""Vandalism""",Vandalism
+Vandalism/Vandalism012_x264.mp4,"An outdoor scene at night. Person1 and Person2 are running around. Person1 spins something around and throws it in the air. Person2 picks up a large white object, spins it around, and throws it.","1. Playing with objects outside - Normal
+2. Spinning and throwing objects to break something - Vandalism
+3. Participating in an outdoor sports activity - Normal
+4. Throwing objects at someone or something in an aggressive manner - Assault
+
+""Normal""",Normal
